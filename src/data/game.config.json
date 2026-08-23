@@ -1,0 +1,138 @@
+{
+  "game": {
+    "name": "Create a Car",
+    "slug": "create-a-car",
+    "robloxId": "134772864249515",
+    "universeId": "9903605866",
+    "developer": "AssemblerX",
+    "genre": "Simulation / Tycoon",
+    "currentVersion": "[ALPHA]",
+    "created": "2026-03-18",
+    "lastUpdated": "2026-08-23",
+    "robloxUrl": "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  },
+  "stats": {
+    "visits": "7.38M+",
+    "favorites": "151.8K+",
+    "onlineNow": "874",
+    "maxPlayers": "6",
+    "rating": "91%"
+  },
+  "seo": {
+    "siteTitle": "Create a Car Wiki - Codes, Calculator & Best Builds 2026",
+    "siteDescription": "Unofficial Create a Car wiki for Roblox. Copy working codes, plan cash and crate upgrades, compare build archetypes, and grow a stronger garage.",
+    "baseUrl": "https://createacar.robloxwikihub.com",
+    "primaryKeywords": [
+      "Create a Car",
+      "Create a Car wiki",
+      "Create a Car codes",
+      "Create a Car Roblox"
+    ],
+    "secondaryKeywords": [
+      "Create a Car calculator",
+      "Create a Car best build",
+      "Create a Car tier list",
+      "Create a Car conveyor",
+      "Create a Car crates",
+      "Create a Car dealer"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Roblox game page",
+      "url": "https://www.roblox.com/games/134772864249515/Create-a-Car"
+    },
+    {
+      "name": "Roblox games API",
+      "url": "https://games.roblox.com/v1/games?universeIds=9903605866"
+    },
+    {
+      "name": "Roblox Den codes page",
+      "url": "https://robloxden.com/game-codes/create-a-car"
+    },
+    {
+      "name": "Destructoid codes page",
+      "url": "https://www.destructoid.com/create-a-car-codes/"
+    },
+    {
+      "name": "SuperCheats codes page",
+      "url": "https://www.supercheats.com/create-a-car-codes"
+    },
+    {
+      "name": "UrGameTips codes page",
+      "url": "https://urgametips.com/create-a-car-codes/"
+    }
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "title": "Create a Car Wiki",
+      "priority": "1.0"
+    },
+    {
+      "path": "/codes",
+      "title": "Create a Car Codes",
+      "priority": "0.95"
+    },
+    {
+      "path": "/calculator",
+      "title": "Create a Car Calculator",
+      "priority": "0.95"
+    },
+    {
+      "path": "/tier-list",
+      "title": "Create a Car Tier List",
+      "priority": "0.9"
+    },
+    {
+      "path": "/best-build",
+      "title": "Create a Car Best Build",
+      "priority": "0.85"
+    },
+    {
+      "path": "/beginner-guide",
+      "title": "Create a Car Beginner Guide",
+      "priority": "0.85"
+    },
+    {
+      "path": "/parts-guide",
+      "title": "Create a Car Parts Guide",
+      "priority": "0.8"
+    },
+    {
+      "path": "/conveyor-guide",
+      "title": "Create a Car Conveyor Guide",
+      "priority": "0.8"
+    },
+    {
+      "path": "/dealer-guide",
+      "title": "Create a Car Dealer Guide",
+      "priority": "0.75"
+    },
+    {
+      "path": "/merge-guide",
+      "title": "Create a Car Merge Guide",
+      "priority": "0.75"
+    },
+    {
+      "path": "/updates",
+      "title": "Create a Car Updates",
+      "priority": "0.7"
+    },
+    {
+      "path": "/about",
+      "title": "About",
+      "priority": "0.3"
+    },
+    {
+      "path": "/terms",
+      "title": "Terms",
+      "priority": "0.25"
+    },
+    {
+      "path": "/privacy-policy",
+      "title": "Privacy Policy",
+      "priority": "0.2"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Create a Car Wiki">
+  <rect width="64" height="64" rx="12" fill="#080b12"/>
+  <path d="M13 37l5-12c1-3 4-5 7-5h14c3 0 6 2 7 5l5 12" fill="#22d3ee" opacity=".9"/>
+  <path d="M18 37h28c4 0 7 3 7 7v3H11v-3c0-4 3-7 7-7z" fill="#f59e0b"/>
+  <circle cx="22" cy="47" r="6" fill="#111827" stroke="#f8fafc" stroke-width="3"/>
+  <circle cx="42" cy="47" r="6" fill="#111827" stroke="#f8fafc" stroke-width="3"/>
+  <path d="M24 25h16l3 8H21l3-8z" fill="#0f172a"/>
+</svg>

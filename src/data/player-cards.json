@@ -1,0 +1,160 @@
+[
+  {
+    "id": "conveyor-cash-farm",
+    "name": "Conveyor Cash Farm",
+    "slug": "conveyor-cash-farm",
+    "tier": "S",
+    "role": "Passive Income",
+    "priority": 96,
+    "bestFor": [
+      "Early cash",
+      "AFK-style earning",
+      "Garage upgrades"
+    ],
+    "description": "A stable cash-first car setup that keeps earning while you save for better crates and more garage space.",
+    "signals": [
+      "Reliable money over time",
+      "Low rebuild cost",
+      "Easy to keep running while upgrading"
+    ],
+    "rerollAdvice": "Prioritize this before chasing rare flex parts. Cash flow makes every later roll safer."
+  },
+  {
+    "id": "rare-parts-showcase",
+    "name": "Rare Parts Showcase",
+    "slug": "rare-parts-showcase",
+    "tier": "S",
+    "role": "Collection / Flex",
+    "priority": 92,
+    "bestFor": [
+      "Leaderboards",
+      "Rarity goals",
+      "Late-game garage value"
+    ],
+    "description": "A build slot reserved for your rarest compatible parts so you can keep value without breaking your income car.",
+    "signals": [
+      "High-rarity parts",
+      "Good visual match",
+      "Not needed for basic cash production"
+    ],
+    "rerollAdvice": "Keep rare parts separated from grind parts so an upgrade experiment does not ruin your best showcase."
+  },
+  {
+    "id": "balanced-daily-driver",
+    "name": "Balanced Daily Driver",
+    "slug": "balanced-daily-driver",
+    "tier": "A",
+    "role": "General Progression",
+    "priority": 86,
+    "bestFor": [
+      "New updates",
+      "General play",
+      "Low-risk upgrades"
+    ],
+    "description": "A flexible car that uses your best non-premium parts while saving rare boxes for a clear milestone.",
+    "signals": [
+      "No single weak slot",
+      "Affordable part swaps",
+      "Works while you test crates"
+    ],
+    "rerollAdvice": "Upgrade gradually. Do not dismantle the whole car unless a new crate clearly improves two or more slots."
+  },
+  {
+    "id": "dealer-flip-build",
+    "name": "Dealer Flip Build",
+    "slug": "dealer-flip-build",
+    "tier": "A",
+    "role": "Cash Conversion",
+    "priority": 82,
+    "bestFor": [
+      "Dealer code tests",
+      "Mid-game cash",
+      "Inventory cleanup"
+    ],
+    "description": "A practical setup for turning spare parts and code cash into better crate attempts without touching your main car.",
+    "signals": [
+      "Duplicate parts",
+      "Clear sell/keep rules",
+      "Cash reserve remains positive"
+    ],
+    "rerollAdvice": "Use this when your garage is cluttered. Protect rare parts and flip the rest into upgrade attempts."
+  },
+  {
+    "id": "merge-test-slot",
+    "name": "Merge Test Slot",
+    "slug": "merge-test-slot",
+    "tier": "B",
+    "role": "Experimentation",
+    "priority": 74,
+    "bestFor": [
+      "Merger updates",
+      "Testing recipes",
+      "Risk control"
+    ],
+    "description": "A separate build slot for merge experiments so you can learn the system without sacrificing your best income setup.",
+    "signals": [
+      "Duplicate inputs",
+      "Known backup car",
+      "Experiment has a clear stop-loss"
+    ],
+    "rerollAdvice": "Only test merges with parts you can afford to lose. Keep screenshots or notes for repeatable results."
+  },
+  {
+    "id": "speed-roll-chaser",
+    "name": "Speed Roll Chaser",
+    "slug": "speed-roll-chaser",
+    "tier": "B",
+    "role": "High Upside",
+    "priority": 68,
+    "bestFor": [
+      "Fun builds",
+      "Rare pulls",
+      "Short sessions"
+    ],
+    "description": "A fun build path that chases exciting parts, but it can drain cash if you chase every crate upgrade too early.",
+    "signals": [
+      "Big part upgrades",
+      "High crate cost",
+      "Less stable income"
+    ],
+    "rerollAdvice": "Use only after your conveyor farm can recover the cost of a bad roll session."
+  },
+  {
+    "id": "starter-box-build",
+    "name": "Starter Box Build",
+    "slug": "starter-box-build",
+    "tier": "C",
+    "role": "Beginner Setup",
+    "priority": 54,
+    "bestFor": [
+      "First hour",
+      "Learning parts",
+      "Cheap upgrades"
+    ],
+    "description": "The first functional car assembled from early boxes. It is useful for learning, but should not trap your cash.",
+    "signals": [
+      "Mostly common parts",
+      "Cheap to replace",
+      "Teaches slot basics"
+    ],
+    "rerollAdvice": "Replace one slot at a time as code cash and better crates arrive."
+  },
+  {
+    "id": "dead-slot-collector",
+    "name": "Dead Slot Collector",
+    "slug": "dead-slot-collector",
+    "tier": "D",
+    "role": "Avoid",
+    "priority": 28,
+    "bestFor": [
+      "Temporary storage"
+    ],
+    "description": "A car that exists only because random parts were attached without a cash, rarity, or upgrade plan.",
+    "signals": [
+      "No earning purpose",
+      "Parts fight each other",
+      "Hard to decide what to upgrade"
+    ],
+    "rerollAdvice": "Break it down into spare parts and rebuild around cash generation or rarity collection."
+  }
+]

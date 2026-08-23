@@ -1,0 +1,42 @@
+[
+  {
+    "id": "redeem-and-roll",
+    "name": "Redeem and Roll Baseline",
+    "stage": "Beginner",
+    "goal": "Redeem the high-confidence codes, build one functional car, and record the upgrade costs shown in your server.",
+    "coinRule": "Spend just enough cash to unlock steady income before buying every available crate.",
+    "risk": "Opening all boxes instantly can leave you with rare parts but no cash path."
+  },
+  {
+    "id": "cash-engine",
+    "name": "Cash Engine Upgrade",
+    "stage": "Early Game",
+    "goal": "Improve the car that earns money over time before building a flex-only showcase car.",
+    "coinRule": "If an upgrade raises cash flow, it can pay for the next crate cycle.",
+    "risk": "Rare-looking parts are not always the best first investment."
+  },
+  {
+    "id": "crate-step-up",
+    "name": "Crate Step-Up Check",
+    "stage": "Mid Game",
+    "goal": "Move to better crates only when your current income can recover the cost of several missed rolls.",
+    "coinRule": "Keep enough reserve for at least one garage or income upgrade after a crate session.",
+    "risk": "A single expensive crate can delay garage expansion if it misses."
+  },
+  {
+    "id": "garage-space",
+    "name": "Garage Space Split",
+    "stage": "Mid Game",
+    "goal": "Separate cash farming, rare-part showcase, and merge testing into different slots.",
+    "coinRule": "Buy space when it prevents you from dismantling a working car.",
+    "risk": "Too many half-built cars can slow progress more than one strong car."
+  },
+  {
+    "id": "merge-and-dealer",
+    "name": "Merge and Dealer Risk Control",
+    "stage": "Late Game",
+    "goal": "Use duplicates and spare cash for dealer or merge experiments while protecting your core builds.",
+    "coinRule": "Never risk the part that keeps your best income build working.",
+    "risk": "Testing every rumored combo without notes makes it hard to learn what worked."
+  }
+]
