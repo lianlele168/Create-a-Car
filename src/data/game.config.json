@@ -123,16 +123,6 @@
       "path": "/about",
       "title": "About",
       "priority": "0.3"
-    },
-    {
-      "path": "/terms",
-      "title": "Terms",
-      "priority": "0.25"
-    },
-    {
-      "path": "/privacy-policy",
-      "title": "Privacy Policy",
-      "priority": "0.2"
     }
   ]
 }
