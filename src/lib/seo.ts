@@ -46,21 +46,20 @@ export function buildFAQSchema(faqs: FaqItem[]) {
 export function buildVideoGameSchema() {
   return {
     "@context": "https://schema.org",
-    "@type": "VideoGame",
-    name: config.game.name,
-    url: config.game.robloxUrl,
-    applicationCategory: "Game",
-    gamePlatform: "Roblox",
-    genre: config.game.genre,
-    publisher: {
-      "@type": "Organization",
-      name: config.game.developer,
-    },
-    offers: {
-      "@type": "Offer",
-      price: "0",
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
+    "@type": "ItemPage",
+    name: `${config.game.name} Wiki & Strategy Guide`,
+    url: config.seo.baseUrl,
+    about: {
+      "@type": "VideoGame",
+      name: config.game.name,
+      url: config.game.robloxUrl ?? `https://www.roblox.com/games/${config.game.robloxId}`,
+      applicationCategory: "Game",
+      gamePlatform: "Roblox",
+      genre: config.game.genre,
+      publisher: {
+        "@type": "Organization",
+        name: config.game.developer,
+      },
     },
   };
 }

@@ -118,11 +118,6 @@
       "path": "/updates",
       "title": "Create a Car Updates",
       "priority": "0.7"
-    },
-    {
-      "path": "/about",
-      "title": "About",
-      "priority": "0.3"
     }
   ]
 }

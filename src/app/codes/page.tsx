@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     question: "What are the working Create a Car codes?",
-    answer: `The high-confidence current codes are ${getActiveCodes().map((code) => code.code).join(", ")} as of August 23, 2026.`,
+    answer: `The high-confidence current codes are ${getActiveCodes().map((code) => code.code).join(", ")} (verified active for ${monthYear}).`,
   },
   {
     question: "How do I redeem codes in Create a Car?",
