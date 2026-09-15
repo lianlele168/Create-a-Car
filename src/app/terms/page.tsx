@@ -97,7 +97,7 @@ export default function TermsPage() {
               For rights holders, content attribution, or takedown inquiries, contact our editorial staff at:
             </p>
             <div className="inline-block rounded-xl border border-amber-500/30 bg-amber-950/40 p-3 font-mono text-sm font-bold text-amber-300">
-              contact@robloxwikihub.com
+              lianlele168@gmail.com
             </div>
             <p className="text-xs text-slate-400">
               We respond promptly within 48 business hours.
