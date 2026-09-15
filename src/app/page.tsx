@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
+import AuthorCard from "@/components/AuthorCard";
 import {
   ArrowRight,
   Calculator,
@@ -158,6 +160,40 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* E-E-A-T AUTHOR VERIFICATION */}
+      <div className="page-shell pt-8">
+        <AuthorCard />
+
+        {/* VISUAL GAMEPLAY SHOWCASE */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+          <div className="rounded-2xl overflow-hidden border border-sky-900/60 bg-sky-950/40 p-4">
+            <Image
+              src="/images/car-header.webp"
+              alt="Create a Car Official Roblox Icon"
+              width={512}
+              height={512}
+              className="rounded-xl object-cover w-full h-56 border border-sky-800/40"
+              priority
+            />
+            <p className="text-xs text-sky-300 mt-2.5 text-center font-medium">
+              Figure 1: Official Create a Car Icon by AssemblerX.
+            </p>
+          </div>
+          <div className="rounded-2xl overflow-hidden border border-sky-900/60 bg-sky-950/40 p-4">
+            <Image
+              src="/images/car-gameplay.webp"
+              alt="Create a Car Active Garage Assembly"
+              width={768}
+              height={432}
+              className="rounded-xl object-cover w-full h-56 border border-sky-800/40"
+            />
+            <p className="text-xs text-sky-300 mt-2.5 text-center font-medium">
+              Figure 2: Active Conveyor Merging and Dyno Testing Arena.
+            </p>
+          </div>
+        </div>
+      </div>
 
       <section className="page-shell py-14">
         <div className="grid gap-5 lg:grid-cols-3">
