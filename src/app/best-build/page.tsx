@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Create a Car Best Build Guide 2026",
   description:
     "Build the best Create a Car garage path with a cash farm, rare-part showcase, dealer flip slot, and merge-safe experiment slot.",
-  alternates: { canonical: "/best-build/" },
+  alternates: { canonical: "/best-build" },
 };
 
 const buildOrder = [

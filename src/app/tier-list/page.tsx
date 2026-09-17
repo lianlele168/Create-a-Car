@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Create a Car Tier List - Best Build Archetypes 2026",
   description:
     "Create a Car tier list for build archetypes, cash farms, rare-part showcase slots, dealer flips, merge tests, and beginner upgrade priorities.",
-  alternates: { canonical: "/tier-list/" },
+  alternates: { canonical: "/tier-list" },
 };
 
 const faqs = [

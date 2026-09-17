@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Create a Car Updates & Sources",
   description:
     "Track Create a Car Roblox stats, code-source conflicts, public data sources, and update notes for this unofficial wiki.",
-  alternates: { canonical: "/updates/" },
+  alternates: { canonical: "/updates" },
 };
 
 const faqs = [

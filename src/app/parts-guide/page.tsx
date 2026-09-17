@@ -6,7 +6,7 @@ import { absoluteUrl, buildBreadcrumbSchema, buildFAQSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Create a Car Parts Guide - Crates, Boxes & Upgrades",
   description: "Use crates and parts boxes more carefully in Create a Car by separating cash upgrades, rarity collection, and experiment parts.",
-  alternates: { canonical: "/parts-guide/" },
+  alternates: { canonical: "/parts-guide" },
 };
 
 const sections = [

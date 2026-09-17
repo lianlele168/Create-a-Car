@@ -6,7 +6,7 @@ import { absoluteUrl, buildBreadcrumbSchema, buildFAQSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Create a Car Dealer Guide - Spare Parts & Cash Flips",
   description: "Use Create a Car dealer logic cautiously by flipping spare parts and cash without risking your core income or rare-part builds.",
-  alternates: { canonical: "/dealer-guide/" },
+  alternates: { canonical: "/dealer-guide" },
 };
 
 const sections = [

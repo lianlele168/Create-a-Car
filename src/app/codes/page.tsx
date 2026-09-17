@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: `Create a Car Codes (${monthYear}) - Working Cash & Crate Rewards`,
   description:
     "Copy working Create a Car codes for Cash, crates, and parts boxes. Includes source confidence, conflict notes, and redeem steps for Roblox.",
-  alternates: { canonical: "/codes/" },
+  alternates: { canonical: "/codes" },
 };
 
 const faqs = [

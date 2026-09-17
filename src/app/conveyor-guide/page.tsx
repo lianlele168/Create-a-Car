@@ -6,7 +6,7 @@ import { absoluteUrl, buildBreadcrumbSchema, buildFAQSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Create a Car Conveyor Guide - Cash Farm Strategy",
   description: "Plan a Create a Car conveyor cash farm and use passive income before spending on expensive crates, dealer flips, or merge experiments.",
-  alternates: { canonical: "/conveyor-guide/" },
+  alternates: { canonical: "/conveyor-guide" },
 };
 
 const sections = [

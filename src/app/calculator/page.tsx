@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Create a Car Calculator - Cash, Crates & Upgrade Time",
   description:
     "Estimate Create a Car cash gaps, upgrade time, crate sessions, and safe reserves using the numbers visible in your Roblox server.",
-  alternates: { canonical: "/calculator/" },
+  alternates: { canonical: "/calculator" },
 };
 
 const faqs = [

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     index: false,
     follow: true,
   },
-  alternates: { canonical: "/privacy-policy/" },
+  alternates: { canonical: "/privacy-policy" },
 };
 
 export default function PrivacyPolicyPage() {

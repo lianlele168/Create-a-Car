@@ -6,7 +6,7 @@ import { absoluteUrl, buildBreadcrumbSchema, buildFAQSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Create a Car Beginner Guide 2026",
   description: "Learn the early Create a Car loop: redeem codes, roll parts, build a cash car, upgrade crates, and expand garage space without wasting your first rewards.",
-  alternates: { canonical: "/beginner-guide/" },
+  alternates: { canonical: "/beginner-guide" },
 };
 
 const sections = [

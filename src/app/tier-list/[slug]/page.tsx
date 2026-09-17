@@ -20,7 +20,7 @@ export function generateMetadata({ params }: Props): Metadata {
   return {
     title: `${build.name} - Create a Car Build Tier Notes`,
     description: `${build.name} is a ${build.tier}-tier Create a Car build archetype for ${build.role.toLowerCase()}. Learn when to keep, upgrade, or rebuild it.`,
-    alternates: { canonical: `/tier-list/${build.slug}/` },
+    alternates: { canonical: `/tier-list/${build.slug}` },
   };
 }
 

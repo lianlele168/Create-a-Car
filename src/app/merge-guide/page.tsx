@@ -6,7 +6,7 @@ import { absoluteUrl, buildBreadcrumbSchema, buildFAQSchema } from "@/lib/seo";
 export const metadata: Metadata = {
   title: "Create a Car Merge Guide - Safe Experiment Strategy",
   description: "Test Create a Car merge updates safely by using duplicate parts, keeping a backup car, and avoiding rare-part losses.",
-  alternates: { canonical: "/merge-guide/" },
+  alternates: { canonical: "/merge-guide" },
 };
 
 const sections = [
