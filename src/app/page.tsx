@@ -35,7 +35,7 @@ const faqs = [
   {
     question: "What are the safest Create a Car codes to try first?",
     answer:
-      "CONVEYOR, GRIND, and FIXES are listed as current by multiple code sources checked on August 23, 2026. Other codes are included on the codes page with conflict notes.",
+      "CONVEYOR, GRIND, and FIXES are listed as current by multiple code sources checked on . Other codes are included on the codes page with conflict notes.",
   },
   {
     question: "What should beginners upgrade first?",

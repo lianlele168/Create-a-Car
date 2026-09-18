@@ -26,7 +26,7 @@ const faqs = [
   {
     question: "When was this Create a Car wiki checked?",
     answer:
-      "The current data snapshot was checked on August 23, 2026.",
+      "The current data snapshot was checked on .",
   },
 ];
 
