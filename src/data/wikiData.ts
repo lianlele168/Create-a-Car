@@ -125,10 +125,7 @@ export const CAR_PARTS_DATA: CarPart[] = [
 ];
 
 export const CAR_CODES_DATA: CarCode[] = [
-  { id: 'code-speed2026', code: 'SPEED2026', reward: '$250,000 Cash + 2x Legendary Engine Crate', status: 'ACTIVE', dateAdded: '' },
-  { id: 'code-conveyor', code: 'CONVEYORMAX', reward: '3x Merge Booster + $100,000', status: 'ACTIVE', dateAdded: '' },
-  { id: 'code-superv12', code: 'SUPERV12', reward: 'Free Epic V12 Engine Block', status: 'ACTIVE', dateAdded: '' },
-  { id: 'code-assembler', code: 'ASSEMBLERX', reward: '$500,000 Cash + Rare Rim Pack', status: 'ACTIVE', dateAdded: '' },
-  { id: 'code-driftking', code: 'DRIFTKING', reward: 'Ultra Angle Kit + $75,000', status: 'ACTIVE', dateAdded: '' },
-  { id: 'code-nitroburst', code: 'NITROBURST', reward: '5x Nitrous Refills', status: 'ACTIVE', dateAdded: '' }
+  { id: 'code-conveyor', code: 'CONVEYOR', reward: 'Free Cash', status: 'ACTIVE', dateAdded: '' },
+  { id: 'code-grind', code: 'GRIND', reward: '50,000 Free Cash', status: 'ACTIVE', dateAdded: '' },
+  { id: 'code-fixes', code: 'FIXES', reward: '50,000 Free Cash', status: 'ACTIVE', dateAdded: '' }
 ];
