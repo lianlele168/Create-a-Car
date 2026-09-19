@@ -15,7 +15,6 @@ import {
   Sparkles,
 } from "lucide-react";
 import codesData from "@/data/codes.json";
-import config from "@/data/game.config.json";
 
 type Filter = "active" | "needs-check" | "expired" | "all";
 
@@ -99,7 +98,7 @@ export default function CodesClient() {
         <div>
           <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-cyan-300/40 bg-cyan-500/10 px-4 py-1.5 text-xs font-black uppercase tracking-wide text-cyan-100">
             <Key className="h-4 w-4 text-cyan-300" />
-            Last checked {config.game.lastUpdated}
+            Codes re-verified regularly
           </div>
           <h1 className="max-w-3xl text-4xl font-black tracking-tight text-white sm:text-5xl">
             Create a Car Codes

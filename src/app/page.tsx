@@ -74,7 +74,7 @@ export default function HomePage() {
           <div className="max-w-3xl">
             <div className="mb-5 inline-flex items-center gap-2 rounded-full border border-amber-300/40 bg-slate-950/70 px-4 py-1.5 text-xs font-black uppercase tracking-wide text-amber-100">
               <Car className="h-4 w-4 text-amber-300" />
-              {config.game.currentVersion} - Updated {config.game.lastUpdated}
+              {config.game.currentVersion}
             </div>
 
             <h1 className="mb-5 text-4xl font-black tracking-tight text-white sm:text-6xl lg:text-7xl">

@@ -40,7 +40,7 @@ export default function Footer() {
               Fan-made strategy hub for {config.game.name} on Roblox. Built around public Roblox data, code-source tracking, and practical garage planning tools.
             </p>
             <div className="mt-4 inline-flex rounded-full border border-white/10 bg-white/5 px-3 py-1 text-[11px] font-mono text-cyan-200">
-              Updated {config.game.lastUpdated}
+              Regularly updated
             </div>
           </div>
 
