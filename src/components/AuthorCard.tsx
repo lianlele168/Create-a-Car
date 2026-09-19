@@ -7,16 +7,16 @@ export default function AuthorCard() {
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
         <div className="flex items-center gap-3">
           <div className="w-12 h-12 rounded-full bg-gradient-to-br from-sky-500 to-indigo-600 flex items-center justify-center text-white font-black text-lg shadow-lg shadow-sky-500/20">
-            CC
+            H
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-bold text-white text-sm sm:text-base">Roblox Wiki Hub Research Desk</span>
+              <span className="font-bold text-white text-sm sm:text-base">Hlele</span>
               <span className="inline-flex items-center gap-1 text-[11px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full">
                 <ShieldCheck className="w-3 h-3" /> Verified by lianlele168</span>
             </div>
             <p className="text-xs text-sky-300">
-              Create a Car Leaderboard Drag Racer & Dyno Specialist • 1,200+ Custom Builds Tested
+              Editor • AI-assisted research, human-reviewed
             </p>
           </div>
         </div>
