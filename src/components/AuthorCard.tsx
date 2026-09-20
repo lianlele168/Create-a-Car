@@ -13,7 +13,7 @@ export default function AuthorCard() {
             <div className="flex items-center gap-2">
               <span className="font-bold text-white text-sm sm:text-base">Hlele</span>
               <span className="inline-flex items-center gap-1 text-[11px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full">
-                <ShieldCheck className="w-3 h-3" /> Verified by lianlele168</span>
+                <ShieldCheck className="w-3 h-3" /> Independent editorial</span>
             </div>
             <p className="text-xs text-sky-300">
               Editor • AI-assisted research, human-reviewed
@@ -28,7 +28,7 @@ export default function AuthorCard() {
           </div>
           <div className="flex items-center gap-1 bg-sky-900/50 px-2.5 py-1 rounded-lg border border-sky-800/40">
             <UserCheck className="w-3.5 h-3.5 text-indigo-400" />
-            <span>Verified for Patch v2.4 (V16 Update)</span>
+            <span>Patch v2.4 (V16 Update)</span>
           </div>
         </div>
       </div>
