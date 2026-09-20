@@ -62,7 +62,7 @@ export default function PrivacyPolicyPage() {
           <div className="surface flex items-center gap-3 p-3 text-xs">
             <Mail className="h-5 w-5 shrink-0 text-indigo-400" />
             <div>
-              <p className="font-bold text-white">Verified Contact</p>
+              <p className="font-bold text-white">Contact</p>
               <p className="text-slate-400">48h response SLA</p>
             </div>
           </div>
