@@ -17,7 +17,7 @@ export default function Footer() {
             </span>
           </div>
           <div className="flex flex-wrap gap-2">
-            <Link href="/codes" className="btn-quiet">
+            <Link href="/codes/" className="btn-quiet">
               <Key className="h-3.5 w-3.5 text-amber-300" />
               {activeCodes.length} Active Codes
             </Link>
@@ -48,19 +48,19 @@ export default function Footer() {
             <h3 className="mb-3 text-xs font-black uppercase tracking-[0.18em] text-amber-200">Core Tools</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/calculator" className="flex items-center gap-2 hover:text-white">
+                <Link href="/calculator/" className="flex items-center gap-2 hover:text-white">
                   <Calculator className="h-4 w-4 text-cyan-300" />
                   Cash & Upgrade Calculator
                 </Link>
               </li>
               <li>
-                <Link href="/codes" className="flex items-center gap-2 hover:text-white">
+                <Link href="/codes/" className="flex items-center gap-2 hover:text-white">
                   <Key className="h-4 w-4 text-cyan-300" />
                   Working Codes
                 </Link>
               </li>
               <li>
-                <Link href="/tier-list" className="flex items-center gap-2 hover:text-white">
+                <Link href="/tier-list/" className="flex items-center gap-2 hover:text-white">
                   <Trophy className="h-4 w-4 text-cyan-300" />
                   Build Tier List
                 </Link>
@@ -71,22 +71,22 @@ export default function Footer() {
           <div>
             <h3 className="mb-3 text-xs font-black uppercase tracking-[0.18em] text-amber-200">Guides</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/best-build" className="hover:text-white">Best Build</Link></li>
-              <li><Link href="/parts-guide" className="hover:text-white">Parts Guide</Link></li>
-              <li><Link href="/conveyor-guide" className="hover:text-white">Conveyor Guide</Link></li>
-              <li><Link href="/dealer-guide" className="hover:text-white">Dealer Guide</Link></li>
-              <li><Link href="/merge-guide" className="hover:text-white">Merge Guide</Link></li>
-              <li><Link href="/beginner-guide" className="hover:text-white">Beginner Guide</Link></li>
+              <li><Link href="/best-build/" className="hover:text-white">Best Build</Link></li>
+              <li><Link href="/parts-guide/" className="hover:text-white">Parts Guide</Link></li>
+              <li><Link href="/conveyor-guide/" className="hover:text-white">Conveyor Guide</Link></li>
+              <li><Link href="/dealer-guide/" className="hover:text-white">Dealer Guide</Link></li>
+              <li><Link href="/merge-guide/" className="hover:text-white">Merge Guide</Link></li>
+              <li><Link href="/beginner-guide/" className="hover:text-white">Beginner Guide</Link></li>
             </ul>
           </div>
 
           <div>
             <h3 className="mb-3 text-xs font-black uppercase tracking-[0.18em] text-amber-200">Info</h3>
             <ul className="mb-4 space-y-2 text-sm">
-              <li><Link href="/updates" className="hover:text-white">Updates & Sources</Link></li>
-              <li><Link href="/about" className="hover:text-white">About</Link></li>
-              <li><Link href="/terms" className="hover:text-white">Terms</Link></li>
-              <li><Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link></li>
+              <li><Link href="/updates/" className="hover:text-white">Updates & Sources</Link></li>
+              <li><Link href="/about/" className="hover:text-white">About</Link></li>
+              <li><Link href="/terms/" className="hover:text-white">Terms</Link></li>
+              <li><Link href="/privacy-policy/" className="hover:text-white">Privacy Policy</Link></li>
             </ul>
             <p className="rounded-md border border-white/10 bg-white/5 p-3 text-[11px] leading-relaxed">
               <Shield className="mr-1 inline h-3.5 w-3.5 text-cyan-300" />

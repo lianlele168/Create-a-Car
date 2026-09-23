@@ -94,7 +94,7 @@ export default function BestBuildPage() {
                 <p className="text-xs font-black uppercase tracking-[0.2em] text-cyan-700">Priority slots</p>
                 <h2 className="mt-2 text-3xl font-black">Best garage spine</h2>
               </div>
-              <Link href="/tier-list" className="hidden items-center gap-2 text-sm font-black text-cyan-800 hover:text-cyan-600 sm:inline-flex">
+              <Link href="/tier-list/" className="hidden items-center gap-2 text-sm font-black text-cyan-800 hover:text-cyan-600 sm:inline-flex">
                 Full tier list
                 <ArrowRight className="h-4 w-4" />
               </Link>
@@ -115,17 +115,17 @@ export default function BestBuildPage() {
         </section>
 
         <section className="grid gap-5 lg:grid-cols-3">
-          <Link href="/calculator" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/calculator/" className="surface p-5 hover:border-amber-300/40">
             <Car className="mb-3 h-7 w-7 text-cyan-300" />
             <h2 className="mb-2 font-black text-white">Score your garage</h2>
             <p className="text-sm leading-6 text-slate-400">Use the calculator sliders to decide whether cash, parts, or garage space should be fixed first.</p>
           </Link>
-          <Link href="/conveyor-guide" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/conveyor-guide/" className="surface p-5 hover:border-amber-300/40">
             <Factory className="mb-3 h-7 w-7 text-cyan-300" />
             <h2 className="mb-2 font-black text-white">Protect income</h2>
             <p className="text-sm leading-6 text-slate-400">Keep the earning car stable before risky crate or merge sessions.</p>
           </Link>
-          <Link href="/merge-guide" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/merge-guide/" className="surface p-5 hover:border-amber-300/40">
             <Wrench className="mb-3 h-7 w-7 text-amber-300" />
             <h2 className="mb-2 font-black text-white">Test safely</h2>
             <p className="text-sm leading-6 text-slate-400">Run merge tests with duplicates and notes before touching rare components.</p>

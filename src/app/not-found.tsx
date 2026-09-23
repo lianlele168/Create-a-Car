@@ -15,7 +15,7 @@ export default function NotFound() {
             <Home className="h-5 w-5" />
             Home
           </Link>
-          <Link href="/codes" className="btn-secondary">
+          <Link href="/codes/" className="btn-secondary">
             <Search className="h-5 w-5 text-cyan-300" />
             Codes
           </Link>

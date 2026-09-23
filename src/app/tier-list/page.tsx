@@ -120,17 +120,17 @@ export default function TierListPage() {
         </section>
 
         <section className="mt-10 grid gap-5 md:grid-cols-3">
-          <Link href="/calculator" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/calculator/" className="surface p-5 hover:border-amber-300/40">
             <PackageOpen className="mb-3 h-7 w-7 text-amber-300" />
             <h2 className="mb-2 font-black text-white">Calculate cash reserve</h2>
             <p className="text-sm leading-6 text-slate-400">Use the calculator before burning cash on expensive crate sessions.</p>
           </Link>
-          <Link href="/best-build" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/best-build/" className="surface p-5 hover:border-amber-300/40">
             <Trophy className="mb-3 h-7 w-7 text-amber-300" />
             <h2 className="mb-2 font-black text-white">Build the garage spine</h2>
             <p className="text-sm leading-6 text-slate-400">Turn archetypes into a practical cash, flex, and experiment split.</p>
           </Link>
-          <Link href="/merge-guide" className="surface p-5 hover:border-amber-300/40">
+          <Link href="/merge-guide/" className="surface p-5 hover:border-amber-300/40">
             <ShieldCheck className="mb-3 h-7 w-7 text-cyan-300" />
             <h2 className="mb-2 font-black text-white">Avoid merge traps</h2>
             <p className="text-sm leading-6 text-slate-400">Know when to test duplicates instead of risking rare parts.</p>

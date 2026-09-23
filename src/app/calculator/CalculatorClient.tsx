@@ -345,7 +345,7 @@ export default function CalculatorClient() {
                 <Sparkles className="h-5 w-5" />
                 Read Next Guide
               </Link>
-              <Link href="/codes" className="btn-secondary">
+              <Link href="/codes/" className="btn-secondary">
                 <PackageOpen className="h-5 w-5 text-amber-300" />
                 Copy Current Codes
               </Link>

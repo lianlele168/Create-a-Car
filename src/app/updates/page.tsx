@@ -120,7 +120,7 @@ export default function UpdatesPage() {
               </div>
             ))}
           </div>
-          <Link href="/codes" className="btn-primary mt-6">
+          <Link href="/codes/" className="btn-primary mt-6">
             Review Codes
           </Link>
         </section>

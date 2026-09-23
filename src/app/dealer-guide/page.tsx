@@ -96,7 +96,7 @@ export default function GuidePage() {
 
         <section className="grid gap-4 md:grid-cols-3">
           
-          <Link href="/codes" className="surface p-5 hover:border-cyan-300/40">
+          <Link href="/codes/" className="surface p-5 hover:border-cyan-300/40">
             <h2 className="mb-2 font-black text-white">Check DEALER</h2>
             <p className="flex items-center gap-2 text-sm font-bold text-cyan-200">
               Open page
@@ -104,7 +104,7 @@ export default function GuidePage() {
             </p>
           </Link>
           
-          <Link href="/calculator" className="surface p-5 hover:border-cyan-300/40">
+          <Link href="/calculator/" className="surface p-5 hover:border-cyan-300/40">
             <h2 className="mb-2 font-black text-white">Plan Cash</h2>
             <p className="flex items-center gap-2 text-sm font-bold text-cyan-200">
               Open page
@@ -112,7 +112,7 @@ export default function GuidePage() {
             </p>
           </Link>
           
-          <Link href="/parts-guide" className="surface p-5 hover:border-cyan-300/40">
+          <Link href="/parts-guide/" className="surface p-5 hover:border-cyan-300/40">
             <h2 className="mb-2 font-black text-white">Parts Guide</h2>
             <p className="flex items-center gap-2 text-sm font-bold text-cyan-200">
               Open page

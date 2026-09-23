@@ -250,7 +250,7 @@ export default function CodesClient() {
           <p className="mb-5 text-sm leading-7 text-slate-300">
             Use cash codes to protect your early economy. Build one car that earns over time, then spend crates and boxes on clear part-slot upgrades.
           </p>
-          <Link href="/calculator" className="btn-primary w-full">
+          <Link href="/calculator/" className="btn-primary w-full">
             <Calculator className="h-5 w-5" />
             Plan Rewards
           </Link>

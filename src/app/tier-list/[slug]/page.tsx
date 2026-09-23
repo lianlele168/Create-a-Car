@@ -39,7 +39,7 @@ export default function BuildDetailPage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 
       <main className="page-shell py-10">
-        <Link href="/tier-list" className="mb-8 inline-flex items-center gap-2 text-sm font-black text-cyan-200 hover:text-cyan-100">
+        <Link href="/tier-list/" className="mb-8 inline-flex items-center gap-2 text-sm font-black text-cyan-200 hover:text-cyan-100">
           <ArrowLeft className="h-4 w-4" />
           Back to tier list
         </Link>
@@ -94,11 +94,11 @@ export default function BuildDetailPage({ params }: Props) {
               This score is a practical priority score, not an official hidden stat. Use it to decide what to protect before risky crate, dealer, or merge moves.
             </p>
             <div className="grid gap-2">
-              <Link href="/calculator" className="btn-primary">
+              <Link href="/calculator/" className="btn-primary">
                 <Calculator className="h-5 w-5" />
                 Run Calculator
               </Link>
-              <Link href="/best-build" className="btn-secondary">
+              <Link href="/best-build/" className="btn-secondary">
                 <Wrench className="h-5 w-5 text-cyan-300" />
                 Best Build Path
               </Link>

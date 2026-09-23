@@ -85,15 +85,15 @@ export default function HomePage() {
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3">
-              <Link href="/codes" className="btn-primary">
+              <Link href="/codes/" className="btn-primary">
                 <Key className="h-5 w-5" />
                 Copy Codes
               </Link>
-              <Link href="/calculator" className="btn-secondary">
+              <Link href="/calculator/" className="btn-secondary">
                 <Calculator className="h-5 w-5 text-cyan-300" />
                 Open Calculator
               </Link>
-              <Link href="/best-build" className="btn-secondary">
+              <Link href="/best-build/" className="btn-secondary">
                 <Trophy className="h-5 w-5 text-amber-300" />
                 Best Build
               </Link>
@@ -148,7 +148,7 @@ export default function HomePage() {
 
             <div className="mt-5 space-y-3">
               {activeCodes.map((code) => (
-                <Link key={code.code} href="/codes" className="flex items-center justify-between rounded-md border border-white/10 bg-white/5 p-3 transition hover:border-amber-300/50">
+                <Link key={code.code} href="/codes/" className="flex items-center justify-between rounded-md border border-white/10 bg-white/5 p-3 transition hover:border-amber-300/50">
                   <span>
                     <span className="block font-mono text-sm font-black text-amber-200">{code.code}</span>
                     <span className="block text-xs text-slate-400">{code.reward}</span>
@@ -197,21 +197,21 @@ export default function HomePage() {
 
       <section className="page-shell py-14">
         <div className="grid gap-5 lg:grid-cols-3">
-          <Link href="/calculator" className="surface p-6 transition hover:border-amber-300/40">
+          <Link href="/calculator/" className="surface p-6 transition hover:border-amber-300/40">
             <Calculator className="mb-4 h-9 w-9 text-amber-300" />
             <h2 className="mb-2 text-xl font-black text-white">Cash & Upgrade Calculator</h2>
             <p className="text-sm leading-6 text-slate-300">
               Enter the cash and income numbers visible in your server to estimate upgrade time, crate sessions, and safe reserves.
             </p>
           </Link>
-          <Link href="/tier-list" className="surface p-6 transition hover:border-amber-300/40">
+          <Link href="/tier-list/" className="surface p-6 transition hover:border-amber-300/40">
             <Wrench className="mb-4 h-9 w-9 text-cyan-300" />
             <h2 className="mb-2 text-xl font-black text-white">Build Archetype Tier List</h2>
             <p className="text-sm leading-6 text-slate-300">
               Rank car builds by purpose instead of invented hidden stats: cash farm, showcase, dealer flip, or merge test.
             </p>
           </Link>
-          <Link href="/best-build" className="surface p-6 transition hover:border-amber-300/40">
+          <Link href="/best-build/" className="surface p-6 transition hover:border-amber-300/40">
             <Trophy className="mb-4 h-9 w-9 text-amber-300" />
             <h2 className="mb-2 text-xl font-black text-white">Best Build Path</h2>
             <p className="text-sm leading-6 text-slate-300">
@@ -228,7 +228,7 @@ export default function HomePage() {
               <p className="text-xs font-black uppercase tracking-[0.2em] text-cyan-700">Priority builds</p>
               <h2 className="mt-2 text-3xl font-black tracking-tight">S-tier garage foundations</h2>
             </div>
-            <Link href="/tier-list" className="inline-flex items-center gap-2 text-sm font-black text-cyan-800 hover:text-cyan-600">
+            <Link href="/tier-list/" className="inline-flex items-center gap-2 text-sm font-black text-cyan-800 hover:text-cyan-600">
               Full tier list
               <ArrowRight className="h-4 w-4" />
             </Link>
@@ -263,7 +263,7 @@ export default function HomePage() {
             <p className="mt-4 text-sm leading-7 text-slate-300">
               Current Create a Car code pages disagree on MERGER, INDEX, DEALER, PRESTIGE, and NEWMERGER. This wiki keeps the search terms covered while labeling the risk clearly.
             </p>
-            <Link href="/updates" className="mt-6 inline-flex items-center gap-2 text-sm font-black text-amber-200 hover:text-amber-100">
+            <Link href="/updates/" className="mt-6 inline-flex items-center gap-2 text-sm font-black text-amber-200 hover:text-amber-100">
               Review sources and conflicts
               <ArrowRight className="h-4 w-4" />
             </Link>
@@ -289,7 +289,7 @@ export default function HomePage() {
       <section className="page-shell pb-16">
         <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-5">
           {plans.map((plan) => (
-            <Link key={plan.id} href="/parts-guide" className="surface p-5 transition hover:border-cyan-300/40">
+            <Link key={plan.id} href="/parts-guide/" className="surface p-5 transition hover:border-cyan-300/40">
               <PackageOpen className="mb-3 h-6 w-6 text-cyan-300" />
               <span className="mb-2 block text-[11px] font-black uppercase tracking-wide text-amber-200">{plan.stage}</span>
               <h3 className="mb-2 text-lg font-black text-white">{plan.name}</h3>
