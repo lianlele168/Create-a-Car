@@ -1,6 +1,6 @@
 {
-  "codeFingerprint": "6d015568e304fdb56b0e72cbbdc7516f12a9577c0aba18efe29599536c6bb65d",
-  "checkedAt": "2026-10-08T16:02:15.809Z",
+  "codeFingerprint": "226f79ab95797f8c9711c4ff338523c84e49e5b3e9d589e8544d19e2f68890ce",
+  "checkedAt": "2026-10-08T16:28:52.263Z",
   "routeInventoryArtifact": {
     "path": "quality/artifacts/routes.json",
     "sha256": "80e81d4c675fab747ca5302288983c312c28c06875226282f691600f4692418b"
@@ -15,11 +15,11 @@
       "title": "Create a Car — Garage notebook & Official Game Links",
       "renderedArtifact": {
         "path": "quality/artifacts/home.html",
-        "sha256": "ddec697127ca5c2876555fbdce61d8da7fcfaec689304e22e9ef496e7362cca3"
+        "sha256": "38705cce7f0b6f0711bb724d31ee205931e82d34c149db2bc9258b84f6cbb55b"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/home-technical.json",
-        "sha256": "0bdb1869dc495e01ac10ce824873c1538f4bc7ad852b2971c681c2b6da0ee050"
+        "sha256": "3ea7d66ef5d1d3be5274dc349fea2ecb7f82593acf4dc717fd31fde1e284e556"
       },
       "issues": {
         "brokenLinks": [],
@@ -32,11 +32,11 @@
       "title": "About & sources | Create a Car Companion",
       "renderedArtifact": {
         "path": "quality/artifacts/about.html",
-        "sha256": "8c25449c6cdc2eaddb191d0c205ceed328ba2c3e7d55d4c5ea0eb5e32ed650b8"
+        "sha256": "9f762ccd2af4fb4a3cb324c577f272a4b4b30304ceada4ac59c18999737066ce"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/about-technical.json",
-        "sha256": "e32c0ac02cac0a0bafd413982579abecf9b9064bb246f30069b42c75d88873dc"
+        "sha256": "3d72149770a088aee544e50e005ab0fc9fc43da9e0e9cc0cc302791a0e1919f1"
       },
       "issues": {
         "brokenLinks": [],
@@ -49,11 +49,11 @@
       "title": "Garage Notebook | Create a Car Companion",
       "renderedArtifact": {
         "path": "quality/artifacts/garage-notebook.html",
-        "sha256": "45d1b5355f13f02a7404003ec30b899a1f6ac61f8989a44b1d9664ecf4450752"
+        "sha256": "9d96eb1ca2eede16e83b7ad143287f187c08c75a45908f2db10c3ab421cdc04a"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/garage-notebook-technical.json",
-        "sha256": "29cd9e74c741bb19c20c87293827115b5ae3244664767ef79e400c503bb50f9e"
+        "sha256": "ddf7cf6f3451c2011efd332ccad832073d694e89fd18846593165cce5eb5e0e1"
       },
       "issues": {
         "brokenLinks": [],
@@ -66,11 +66,11 @@
       "title": "Privacy | Create a Car Companion",
       "renderedArtifact": {
         "path": "quality/artifacts/privacy-policy.html",
-        "sha256": "af944264abedda958dcd26b5e6894f5ee87592b896232144f6ffc60dbc115bac"
+        "sha256": "4ba9eadfe83e6e09778855cf55577e301375af04baf43d092495b5e3870000a1"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/privacy-policy-technical.json",
-        "sha256": "49b936b6ef11f4f3bc9de69e73fcc058977b62daea452b3bfc9287dcf73a6e6f"
+        "sha256": "d9d75e4952f9fdfb8991ba0f5da1bb59d3a9817eec91dc8335136b421908ee1c"
       },
       "issues": {
         "brokenLinks": [],
@@ -83,11 +83,11 @@
       "title": "Terms of use | Create a Car Companion",
       "renderedArtifact": {
         "path": "quality/artifacts/terms.html",
-        "sha256": "06406dd37381f82a9b744040bf65461f4a7ca6a7f7aca220baeae0acccfafee4"
+        "sha256": "b415a192da98a811c942501610cde202c8e8ea41f902371d0ffd38cbb0afc965"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/terms-technical.json",
-        "sha256": "c7845ce182e6764dbeaba2f90c53dcd39de39e43db0857bb450bea24dd403423"
+        "sha256": "10ac663c7f36f165260838f8f3d4a612e7a62bfd4eb84540516b04dfc8e73f75"
       },
       "issues": {
         "brokenLinks": [],
@@ -96,5 +96,5 @@
       }
     }
   ],
-  "status": "pending-content-and-visual-review"
+  "status": "reviewed-after-dependency-repair"
 }
