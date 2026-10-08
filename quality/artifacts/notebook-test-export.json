@@ -7,7 +7,7 @@
       "engine": "",
       "wheels": "",
       "observation": "<script>alert(1)</script> saved literally",
-      "id": "c4e318ae-b37b-44cd-8818-94734ec2fb55"
+      "id": "b05c81d1-3e75-4f8b-b5a8-fa8c85b6f9d3"
     },
     {
       "name": "Trial B",
@@ -15,7 +15,7 @@
       "engine": "",
       "wheels": "",
       "observation": "Changed only my wheels; recorded my observation.",
-      "id": "43f7007b-715e-4b31-a55c-070b5b210436"
+      "id": "6050a518-00c0-48d8-b105-4c75fcc41cb3"
     }
   ]
 }

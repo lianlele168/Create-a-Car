@@ -8,8 +8,8 @@
   ],
   "checks": {
     "fingerprint": {
-      "sha256": "226f79ab95797f8c9711c4ff338523c84e49e5b3e9d589e8544d19e2f68890ce",
-      "files": 31
+      "sha256": "70529e73b28e8a067df2082f71bfec47b454f3ef3454b7eedb91bfa8c27c0305",
+      "files": 29
     },
     "pages": 5,
     "claims": 12,

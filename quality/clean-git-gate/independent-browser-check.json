@@ -1,0 +1,507 @@
+{
+  "schemaVersion": 1,
+  "project": "create-a-car-wiki",
+  "scope": "local static export selector validation; not production",
+  "origin": "http://127.0.0.1:50224",
+  "productionOrigin": "https://createacar.robloxwikihub.com",
+  "commit": null,
+  "deploymentReference": null,
+  "deploymentUrl": null,
+  "provenance": "Commit and deployment identifiers come from release input; provider/alias binding must be independently verified by publication controller.",
+  "checkedAt": "2026-10-08T17:02:23.934Z",
+  "checks": [
+    "Local export notebook bundle saves, reloads and deletes browser-local record",
+    "Retired or unknown path is genuine HTTP404; 390/768/1024/1440 browser views have no horizontal overflow",
+    "Every reviewed public route loaded in real Chrome; observed scripts/styles/images/fonts captured with HTTP, MIME and response-byte hashes"
+  ],
+  "visitedPages": [
+    {
+      "path": "/garage-notebook/",
+      "url": "http://127.0.0.1:50224/garage-notebook/",
+      "httpStatus": 200,
+      "sha256": "08f7df54be85c9a63886afa228e95194ba9c3b37dace862d74dfdbee69b1b5a4"
+    },
+    {
+      "path": "/",
+      "url": "http://127.0.0.1:50224/",
+      "httpStatus": 200,
+      "sha256": "5c6e1fc446031743a3c97c8de012e21ceb06400d6b1456a7a85f2a16ccf291f5"
+    },
+    {
+      "path": "/about/",
+      "url": "http://127.0.0.1:50224/about/",
+      "httpStatus": 200,
+      "sha256": "4a0b4fd749483f8531a158d418302a1e6675e814924a7a8c57e663216ac60225"
+    },
+    {
+      "path": "/privacy-policy/",
+      "url": "http://127.0.0.1:50224/privacy-policy/",
+      "httpStatus": 200,
+      "sha256": "e782050e01a168efec6718c153b9607dfc135b8e48787de90dad76ecb567b3e0"
+    },
+    {
+      "path": "/terms/",
+      "url": "http://127.0.0.1:50224/terms/",
+      "httpStatus": 200,
+      "sha256": "88eda4d1e4731dddfd14ce63ff5cf6052c678c249d02c479327a29aa72eb5a38"
+    }
+  ],
+  "resourceChecks": [
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/page-5ec77e41f01c4221.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "73b3b9cec0624b8d84beff8af73582c0c7f81195b89051f2c970511e5143ef93",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/terms/page-b753fbc2108d9433.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "2e19e4312325ee339a07799f434155a3cbac20e3d61f6babc698c4293b098360",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/privacy-policy/page-401d6c08a6f122ef.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "fa2b68684676644108764e5ca59bea58dc251009818db66beba141c4c294ec4d",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/about/page-3b6b94775c2af8b5.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/garage-notebook/",
+      "sha256": "5e04a8352389c30d5d263e8a22d6b7a34b2f93fb2e46036ff195b1e307420d19",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/page-5ec77e41f01c4221.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "73b3b9cec0624b8d84beff8af73582c0c7f81195b89051f2c970511e5143ef93",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/about/page-3b6b94775c2af8b5.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "5e04a8352389c30d5d263e8a22d6b7a34b2f93fb2e46036ff195b1e307420d19",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/about/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/privacy-policy/page-401d6c08a6f122ef.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "fa2b68684676644108764e5ca59bea58dc251009818db66beba141c4c294ec4d",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/privacy-policy/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/css/f7abb5e8af1cb44e.css",
+      "resourceType": "stylesheet",
+      "status": 200,
+      "contentType": "text/css",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "a950c06e53d0f558cac803c0ea5724568478f405a5ffa0d554f61141d5822971",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/webpack-8658fdbc42bfbbae.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "fe0656291836116476691bed8de965bd71a8b846f4b934a34291efb5ec2c0533",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/main-app-05b6f363cff9e583.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "aa59be2a496ce4a905836b3d9dd9d943bd64144089eed48ed145e3b7044de45c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/terms/page-b753fbc2108d9433.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "2e19e4312325ee339a07799f434155a3cbac20e3d61f6babc698c4293b098360",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/972-c297c90601cf06f0.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "ba8d97dba2235cf174abe4e9a93fe5e75da8bc4799381cff8c38104bceb15941",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/117-70963ce3e3e3fa52.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "c1ea07ec7c07dca44034822f7545676aa851fed1ec6210a4baec50e6b8ec5a8c",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/fd9d1056-9f91b5e418130764.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "b8bddf9481d859d648e1e050f8322eb3defe3dd3f9bd13f4c44dd6f2ecf5ab80",
+      "passed": true
+    },
+    {
+      "url": "http://127.0.0.1:50224/_next/static/chunks/app/garage-notebook/page-6b700d72f247fd6c.js",
+      "resourceType": "script",
+      "status": 200,
+      "contentType": "text/javascript",
+      "documentUrl": "http://127.0.0.1:50224/terms/",
+      "sha256": "8bfcd2c5808fb2c5598b2ee72f7f9ad605506cbcb357480223d194e001934357",
+      "passed": true
+    }
+  ],
+  "networkErrors": [],
+  "completedHeadRequests": [],
+  "consoleErrors": [],
+  "errors": [],
+  "passed": true,
+  "completedAt": "2026-10-08T17:02:27.414Z"
+}

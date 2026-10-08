@@ -1,8 +1,8 @@
 {
   "path": "/",
-  "codeFingerprint": "226f79ab95797f8c9711c4ff338523c84e49e5b3e9d589e8544d19e2f68890ce",
-  "checkedAt": "2026-10-08T16:28:48.186Z",
-  "testedUrl": "http://127.0.0.1:50804/",
+  "codeFingerprint": "70529e73b28e8a067df2082f71bfec47b454f3ef3454b7eedb91bfa8c27c0305",
+  "checkedAt": "2026-10-08T16:59:15.078Z",
+  "testedUrl": "http://127.0.0.1:64938/",
   "httpStatus": 200,
   "canonical": "https://createacar.robloxwikihub.com/",
   "robotsAllowed": true,
@@ -71,10 +71,10 @@
     }
   ],
   "interaction": "not-applicable",
-  "contentReview": "Prior factual review retained: source files and all main HTML unchanged; no fresh external fact verification claimed.",
-  "note": "Fresh Linux Node22/npm10 build, fresh Chrome capture and repeated interactions. Details in quality/dependency-repair/review.json.",
+  "contentReview": "Prior factual review retained: page source and main HTML unchanged; gate-only implementation repair.",
+  "note": "Fresh clean Git archive + documented pending gate patch built on Linux22/npm10; current Chrome capture and interactions repeated. See quality/clean-git-gate/review.json.",
   "interactionReason": "Static information/standard links; no page-specific widget. Collector requested all internal href destinations.",
   "externalLinkReview": "Only external HTTP destination is official Roblox page, captured HTTP 200 in sources/roblox-current-capture.json. mailto retained; no email sent.",
-  "visualReviewer": "Codex agent / HTML5 repairs — pixel comparison and changed-capture inspection",
-  "visualReviewedAt": "2026-10-08T16:36:00.857962+00:00"
+  "visualReviewer": "Codex agent / HTML5 repairs — pixel comparison and changed header inspection",
+  "visualReviewedAt": "2026-10-08T17:01:11.277569+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "codeFingerprint": "226f79ab95797f8c9711c4ff338523c84e49e5b3e9d589e8544d19e2f68890ce",
+  "codeFingerprint": "70529e73b28e8a067df2082f71bfec47b454f3ef3454b7eedb91bfa8c27c0305",
   "site": {
     "baseUrl": "https://createacar.robloxwikihub.com/",
     "officialUrl": "https://www.roblox.com/games/134772864249515/Create-a-Car",
@@ -63,10 +63,10 @@
       "id": "interaction-review",
       "kind": "observation",
       "url": "https://createacar.robloxwikihub.com/garage-notebook/",
-      "checkedAt": "2026-10-08T16:29:07.090Z",
+      "checkedAt": "2026-10-08T17:01:08.289Z",
       "artifact": {
         "path": "quality/artifacts/interaction-review.json",
-        "sha256": "ef25b9533595e1146e000f23f163e598afec114a925fb6c738ce1cfc21bc599f"
+        "sha256": "5de2994e3d951e3b45c5e8425bd34de4d6201f8bfea1bbf8c8e9f8d354a05f1b"
       }
     },
     {
@@ -333,11 +333,11 @@
       },
       "renderedArtifact": {
         "path": "quality/artifacts/home.html",
-        "sha256": "38705cce7f0b6f0711bb724d31ee205931e82d34c149db2bc9258b84f6cbb55b"
+        "sha256": "5c6e1fc446031743a3c97c8de012e21ceb06400d6b1456a7a85f2a16ccf291f5"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/home-technical.json",
-        "sha256": "3ea7d66ef5d1d3be5274dc349fea2ecb7f82593acf4dc717fd31fde1e284e556"
+        "sha256": "746e77d7c515aa1d9b750aae10caccf20e680883e627d8e6b5af37e72eb39b5a"
       }
     },
     {
@@ -365,11 +365,11 @@
       },
       "renderedArtifact": {
         "path": "quality/artifacts/about.html",
-        "sha256": "9f762ccd2af4fb4a3cb324c577f272a4b4b30304ceada4ac59c18999737066ce"
+        "sha256": "4a0b4fd749483f8531a158d418302a1e6675e814924a7a8c57e663216ac60225"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/about-technical.json",
-        "sha256": "3d72149770a088aee544e50e005ab0fc9fc43da9e0e9cc0cc302791a0e1919f1"
+        "sha256": "408c785a93063e1c0967ffb000d158570455dc391c159a4eca2eda9ad19a90f1"
       }
     },
     {
@@ -398,11 +398,11 @@
       },
       "renderedArtifact": {
         "path": "quality/artifacts/garage-notebook.html",
-        "sha256": "9d96eb1ca2eede16e83b7ad143287f187c08c75a45908f2db10c3ab421cdc04a"
+        "sha256": "08f7df54be85c9a63886afa228e95194ba9c3b37dace862d74dfdbee69b1b5a4"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/garage-notebook-technical.json",
-        "sha256": "ddf7cf6f3451c2011efd332ccad832073d694e89fd18846593165cce5eb5e0e1"
+        "sha256": "9b28be3015182dae55c4b1a3aab0e9bd9b552c7e2b44cffe95cd149607f9adf5"
       }
     },
     {
@@ -430,11 +430,11 @@
       },
       "renderedArtifact": {
         "path": "quality/artifacts/privacy-policy.html",
-        "sha256": "4ba9eadfe83e6e09778855cf55577e301375af04baf43d092495b5e3870000a1"
+        "sha256": "e782050e01a168efec6718c153b9607dfc135b8e48787de90dad76ecb567b3e0"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/privacy-policy-technical.json",
-        "sha256": "d9d75e4952f9fdfb8991ba0f5da1bb59d3a9817eec91dc8335136b421908ee1c"
+        "sha256": "82c3aa96d2a1fb3811575392b42596a8597e4a9e6f0261c92758741413d78fa2"
       }
     },
     {
@@ -461,11 +461,11 @@
       },
       "renderedArtifact": {
         "path": "quality/artifacts/terms.html",
-        "sha256": "b415a192da98a811c942501610cde202c8e8ea41f902371d0ffd38cbb0afc965"
+        "sha256": "88eda4d1e4731dddfd14ce63ff5cf6052c678c249d02c479327a29aa72eb5a38"
       },
       "technicalArtifact": {
         "path": "quality/artifacts/terms-technical.json",
-        "sha256": "10ac663c7f36f165260838f8f3d4a612e7a62bfd4eb84540516b04dfc8e73f75"
+        "sha256": "28e03784c5e22c33ea4384c9a937eb1a86c3fbc87cf60201640f3fdb0fe40aff"
       }
     }
   ],
@@ -479,15 +479,15 @@
   ],
   "sitemapArtifact": {
     "path": "quality/artifacts/sitemap.xml",
-    "sha256": "433d28826655ce6782283e7218854489ddaaaf6c774666f10bdaac1e2d651a07"
+    "sha256": "1859f5585c21ab1e4be78264417649e8c5336be29980a8aa3a78d0090d62bd9a"
   },
   "skillRunArtifact": {
     "path": "quality/skill-run.md",
-    "sha256": "9d0343a6486659b0547a4a98f974b236465feb269d29d5b162af27ea9b6f919f"
+    "sha256": "35549701a7f54ce4e098b25ac26a748d13f45c063b43fc93cd894df72fe4421f"
   },
   "buildArtifact": {
     "path": "quality/artifacts/build.log",
-    "sha256": "90d81a7fbf6e6c7d110478b6b938b12d892cb43b0fb57270388dc4efbc87a08f"
+    "sha256": "4687f4a8c72beed8981ef95163ecaa3fe22862c81cf1a92329293211a32c1571"
   },
   "buildStatus": "passed",
   "unresolved": []
