@@ -1,0 +1,76 @@
+{
+  "path": "/merge-guide/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:55.014Z",
+  "testedUrl": "http://127.0.0.1:64864/merge-guide/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/merge-guide/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/merge-guide-390.png",
+        "sha256": "081f4cab16a91088c082bbe1f2938e25441eb5b3fdfad389a7dcb6b591c973cd"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/merge-guide-768.png",
+        "sha256": "6ad4d7c7edd79cdbf2484d8d7277310b48972f6e89f57cc5e40ddafcb960fc04"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/merge-guide-1024.png",
+        "sha256": "d586721bcba552b3ef61f73e67b20317c000624bb89c85dc9f3d9d62ad696bdb"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/merge-guide-1440.png",
+        "sha256": "8ab61b918156537afacac7f91d67c2a48000647841b6da4f078be7c8fdc2ffe2"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

@@ -1,0 +1,76 @@
+{
+  "path": "/tier-list/speed-roll-chaser/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:09.936Z",
+  "testedUrl": "http://127.0.0.1:64864/tier-list/speed-roll-chaser/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/tier-list/speed-roll-chaser/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__speed-roll-chaser-390.png",
+        "sha256": "5df3ef46da7877b155079251870bcb4a2c8614742559ff4e66479bec119fb0cf"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__speed-roll-chaser-768.png",
+        "sha256": "e0f593bd49e9d796f40d3b50b5ebf1a8e7cbc53f14f4a65cba5030399c1f3f83"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__speed-roll-chaser-1024.png",
+        "sha256": "b667816478423cb90a05f507600730c3e57a92c67964b382f4dc0f300e112b18"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__speed-roll-chaser-1440.png",
+        "sha256": "cd1914626adbc909e5fd034f16023e9f1e946bdbce6ec8b9e997cc2ff86bd981"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

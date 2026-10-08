@@ -1,0 +1,7 @@
+# Application and authorship review
+
+Reviewed 2026-10-08T16:09:06.406970+00:00 by Codex agent — Roblox repair subtask.
+This describes the current local production export, not the previously deployed live site.
+Read all current app routes, layout, shared Page and client component. No authentication client, advertising/analytics script, runtime game API request or external font import remains. Hosting requests and external links are disclosed. Hlele attribution is the user/workspace identity instruction; existing lianlele168@gmail.com correction contact is preserved from the former repository policies in the source archive. No email was sent, response-time promise or official sponsorship claimed.
+The agent read official HTML and the entire API description, compared current rendered main text/metadata, and checked five routes. This is source review, not gameplay or human endorsement. Unsupported source/data is archived as .txt and not imported. Build output/routes.json contain exactly five public content pages.
+Notebook stores only user-entered name/frame/engine/wheels/observation in localStorage, with individual delete and JSON export. React renders input literally. No game score, formula or probability model exists. Actual tests cover empty/invalid input, two saved notes, reload, delete, export, blocked writes, corrupt reads and download failure. Corrupt storage is retained instead of overwritten. Trial A/B are synthetic test fixtures, never default game data.

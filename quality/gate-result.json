@@ -1,0 +1,20 @@
+{
+  "name": "create-a-car-wiki",
+  "gateVersion": 2,
+  "passed": true,
+  "issues": [],
+  "warnings": [
+    "Review source authenticity, claim support, calibration correctness and inventory completeness manually. Self-authored records are not independent proof."
+  ],
+  "checks": {
+    "fingerprint": {
+      "sha256": "6d015568e304fdb56b0e72cbbdc7516f12a9577c0aba18efe29599536c6bb65d",
+      "files": 31
+    },
+    "pages": 5,
+    "claims": 12,
+    "sources": 6,
+    "artifacts": 22
+  },
+  "limitation": "Checks evidence completeness and recorded results; cannot certify fact truth, actual execution or Google indexing."
+}

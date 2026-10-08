@@ -1,0 +1,56 @@
+INTERACTIVE PLANNING TOOL
+Create a Car Calculator
+
+Plan cash, crate sessions, and upgrade timing with the values visible in your server. This tool uses your inputs instead of pretending hidden game formulas are public.
+
+Resource inputs
+Reset
+Include high-confidence code rewards
+Adds 100,000 Cash, 3 crates, and 2 parts boxes.
+CURRENT CASH
+CASH PER MINUTE
+TARGET UPGRADE COST
+CRATE COST
+MANUAL BONUS CASH
+SESSION MINUTES
+Current garage ratings
+Cash engine
+45/100
+Part quality
+50/100
+Garage space
+45/100
+Spending mode
+Conserve
+Keep roughly 55% of projected cash after target planning.
+Balanced
+Keep roughly 35% reserve and spend the rest on measured upgrades.
+Push
+Keep a thinner reserve and chase the current milestone now.
+Results
+70/100
+Projected Cash
+145,000
+Cash Gap
+0
+Minutes Needed
+0
+Crate Sessions
+6
+Upgrade income first
+
+Your cash flow is the bottleneck. Improve the car that earns over time before buying riskier crates.
+
+Reserve cash: 50,750
+
+Spendable cash: 94,250
+
+Code crates included: 3
+
+Code parts boxes included: 2
+
+Read Next Guide
+Copy Current Codes
+Calculator note
+
+Crate prices, cash income, and upgrade costs can change after updates. Use the fields above for the values you can see in your server.

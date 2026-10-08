@@ -1,0 +1,76 @@
+{
+  "path": "/dealer-guide/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:53.640Z",
+  "testedUrl": "http://127.0.0.1:64864/dealer-guide/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/dealer-guide/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/dealer-guide-390.png",
+        "sha256": "44ce52901273e6932715bc1fe8ed8195610f21629dce80520d0446b9f7c03a0d"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/dealer-guide-768.png",
+        "sha256": "81973894b8cebfdece4780b9f2573b2633965ae6e2d33a2a3e489704707c6fe3"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/dealer-guide-1024.png",
+        "sha256": "34074012fa97240a8b771bedb86731a1ab4a19758b7a5151f91506c67a921541"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/dealer-guide-1440.png",
+        "sha256": "b8045910a9e87e33944addc2a10e0f9b3816572848fbc392cfedd1a8a2d6bc92"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

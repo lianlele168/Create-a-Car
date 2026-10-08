@@ -1,0 +1,76 @@
+{
+  "path": "/tier-list/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:00.904Z",
+  "testedUrl": "http://127.0.0.1:64864/tier-list/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/tier-list/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list-390.png",
+        "sha256": "a1c2c56c51b7cdb7345ec8b82f0f0e5d63d0ab7b0a5d009dd00192bca4f87944"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list-768.png",
+        "sha256": "bd26d58509bd296628fe71cb1a67e42e7598cca32659f9ee14b9401b33c8f210"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list-1024.png",
+        "sha256": "e4f6e168bcd89209212212dc67fde7f0b69686e1884fdd8975a74a38e928794e"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list-1440.png",
+        "sha256": "c7bdff3ac5840fe453af0ffa2dd6f57578f2b5ec6f3e096c387a048b83ae8148"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

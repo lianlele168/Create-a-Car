@@ -1,0 +1,81 @@
+{
+  "path": "/updates/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:12.559Z",
+  "testedUrl": "http://127.0.0.1:64864/updates/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/updates/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car",
+    "https://games.roblox.com/v1/games?universeIds=9903605866",
+    "https://robloxden.com/game-codes/create-a-car",
+    "https://www.destructoid.com/create-a-car-codes/",
+    "https://www.supercheats.com/create-a-car-codes",
+    "https://urgametips.com/create-a-car-codes/"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-390.png",
+        "sha256": "1db63e204afca5de17ea29d0db1c86cbb1f419f6647db9ac1ebd5525b2b72a67"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-768.png",
+        "sha256": "28f5d690d71decf4be81270ac0765504e6bed46c69927cb9adcfd55a3fb27dd5"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-1024.png",
+        "sha256": "4dd68151000c4fe56173c5b154dc572ce643552372e4bc306495e23644a850c3"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/updates-1440.png",
+        "sha256": "aa3dc567b6c5db3009674775cd1bafa939f12d1d8f7f2d9adc71e7796d6084bd"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

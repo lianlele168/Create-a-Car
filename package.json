@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-reviewed.mjs",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build:site": "next build",
+    "quality:gate": "node scripts/quality-gate.mjs ."
   },
   "dependencies": {
     "lucide-react": "^1.33.0",

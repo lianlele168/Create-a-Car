@@ -1,53 +1,6 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import Link from "next/link";
+import { site } from "@/data/site";
 import "./globals.css";
-import Footer from "@/components/Footer";
-import Header from "@/components/Header";
-import config from "@/data/game.config.json";
-
-const inter = Inter({ subsets: ["latin"] });
-
-export const metadata: Metadata = {
-  metadataBase: new URL(config.seo.baseUrl),
-  title: {
-    default: config.seo.siteTitle,
-    template: `%s | ${config.game.name} Wiki`,
-  },
-  description: config.seo.siteDescription,
-  keywords: [...config.seo.primaryKeywords, ...config.seo.secondaryKeywords],
-  authors: [{ name: `${config.game.name} Wiki` }],
-  openGraph: {
-    type: "website",
-    siteName: `${config.game.name} Wiki`,
-    title: config.seo.siteTitle,
-    description: config.seo.siteDescription,
-    url: config.seo.baseUrl,
-    images: [{ url: "/og-default.jpg", width: 1200, height: 630 }],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: `${config.game.name} Wiki`,
-    description: config.seo.siteDescription,
-    images: ["/og-default.jpg"],
-  },
-  robots: { index: true, follow: true },
-};
-
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return (
-    <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-      </head>
-      <body className={`${inter.className} min-h-screen bg-slate-950 text-slate-100 antialiased`}>
-        <Header />
-        <main>{children}</main>
-        <Footer />
-      </body>
-    </html>
-  );
-}
+export const metadata:Metadata={metadataBase:new URL(site.baseUrl),title:{default:site.name+" Companion",template:"%s | "+site.name+" Companion"},description:"Independent "+site.name+" companion with official source links and "+site.toolLabel.toLowerCase()+".",authors:[{name:"Hlele"}],robots:{index:true,follow:true}};
+export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body className="car"><a href="#content" className="skip">Skip to content</a><header><div className="shell top"><Link href="/" className="brand">{site.name}<small>INDEPENDENT PLAYER COMPANION</small></Link><nav aria-label="Main navigation"><Link href="/">Overview</Link><Link href={site.toolPath}>{site.toolLabel}</Link><a href={site.officialUrl} target="_blank" rel="noopener noreferrer">Open Roblox ↗</a></nav></div></header><main id="content">{children}</main><footer><div className="shell"><p>Published by Hlele · Independent of Roblox and {site.creator}.</p><nav aria-label="Footer navigation"><Link href="/about/">About & sources</Link><Link href="/privacy-policy/">Privacy</Link><Link href="/terms/">Terms</Link></nav></div></footer></body></html>;}

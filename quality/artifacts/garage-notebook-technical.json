@@ -1,0 +1,81 @@
+{
+  "path": "/garage-notebook/",
+  "codeFingerprint": "6d015568e304fdb56b0e72cbbdc7516f12a9577c0aba18efe29599536c6bb65d",
+  "checkedAt": "2026-10-08T16:02:13.643Z",
+  "testedUrl": "http://127.0.0.1:62507/garage-notebook/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/garage-notebook/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/garage-notebook-390.png",
+        "sha256": "041f8eb49e8507095b6311cb3c04413c6cad679047f7ad96aaf1c1d25835ae92"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/garage-notebook-768.png",
+        "sha256": "63f9bf1e3d97319ddce389644a10caed2830ffe48f8841b80bdc792b296650a8"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/garage-notebook-1024.png",
+        "sha256": "4f2b1a499a4498d7edc205158a7028e90f7bcd760c3492eeebf106b7e7da313f"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/garage-notebook-1440.png",
+        "sha256": "15601f865ebcf6c4ddc4260fe7d2f8d79c2e5a918e533ea1006643e02ac60efb"
+      }
+    }
+  ],
+  "interaction": "passed",
+  "contentReview": "completed in quality/content-review.md",
+  "note": "Actual local production-export capture plus subsequent visual/content review. Does not certify deployment or indexing.",
+  "visualReviewer": "Codex agent — all four saved screenshots actually inspected",
+  "visualReviewedAt": "2026-10-08T16:09:06.406970+00:00",
+  "interactionArtifact": {
+    "path": "quality/artifacts/interaction-review.json",
+    "sha256": "3053d3d8c6afb989784ebb0c21f59f25e4bed7b93e7a51321fa85e20eb4a8a53"
+  },
+  "externalLinkReview": "Only external HTTP destination is official Roblox page, captured HTTP 200 in sources/roblox-current-capture.json. mailto retained; no email sent."
+}

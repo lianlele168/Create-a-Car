@@ -1,0 +1,35 @@
+ROBLOX · INDEPENDENT COMPANION
+
+Create a Car
+
+Create a Car is a Roblox game by AssemblerX. Its official description lists car building, collecting, racing and showrooms.
+
+Open garage notebook
+Open the official game ↗
+
+Official place ID: 134772864249515 · Source read on 2026-10-08
+
+What the official description confirms
+Build and collect
+
+The developer describes crate-based part collecting and cars built from Frames, Engines and Wheels.
+
+Earn and display
+
+Cars can earn cash offline, and a Showroom displays your collection.
+
+Progress and compete
+
+The description lists Prestige, ranked racing and Season Pass rewards.
+
+Keep your own comparison
+
+Use the notebook to record a setup and the changes you actually see. It supplies no part values or predicted results.
+
+A useful record, without guessed numbers
+
+Start with the names displayed in your game. Note the condition you compared, change one part if you want a clearer comparison, then record what happened. This is a suggested note-taking method, not a verified optimal strategy.
+
+Exact part stats, crate odds, prestige costs and income formulas are not supplied by the source used here. The companion therefore does not rank parts or recommend spending from an invented model.
+
+Source: AssemblerX on Roblox. Check that page for changes or availability.

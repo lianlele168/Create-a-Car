@@ -1,0 +1,76 @@
+{
+  "path": "/calculator/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:49.106Z",
+  "testedUrl": "http://127.0.0.1:64864/calculator/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/calculator/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-390.png",
+        "sha256": "439e2110bcc535117b101fe0fa5e9bbb1688f1e0b10ab0f5ad793e4f4949e7af"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-768.png",
+        "sha256": "beaaa2ed844553efe9fc19d75fa68df6e8d7a4bee000a3a60488fd6c426bffd8"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-1024.png",
+        "sha256": "ad6ad859efc4df32d387c8b42bdfb2f3c94fb0432fa75dd1f53fef9e4ac1a561"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/calculator-1440.png",
+        "sha256": "a66c55a053ea4a88196fe0afdb45dd43d534c3bc6d78508a3da7b70e57599d37"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

@@ -1,0 +1,5 @@
+import type {Metadata} from "next";
+import Page from "@/components/Page";
+import Notebook from "@/components/Notebook";
+export const metadata:Metadata={title:"Garage Notebook",description:"Record your Create a Car frames, engines, wheels and observations locally. Compare your own notes without guessed part ratings.",alternates:{canonical:"/garage-notebook/"}};
+export default function NotebookPage(){return <Page title="Garage notebook"><p className="lead">Keep the setup you tried and the result you actually saw.</p><p>Use the part names shown in your game. Leave optional fields blank if they do not apply. For a useful comparison, record the conditions as well as the result — this is a note-taking suggestion, not a claim about the best build.</p><p className="note">Notes stay in this browser when storage is available. They are not sent to a server or synchronized with Roblox. Export a backup before clearing browser data; do not put passwords or personal details in your notes.</p><Notebook /></Page>;}

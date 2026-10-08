@@ -1,0 +1,53 @@
+FIRST-HOUR ROUTE
+Create a Car Beginner Guide
+
+Learn the early Create a Car loop: redeem codes, roll parts, build a cash car, upgrade crates, and expand garage space without wasting your first rewards.
+
+Redeem safe codes first
+
+Start with CONVEYOR, GRIND, and FIXES, then test needs-check codes only after the high-confidence rewards are redeemed.
+
+Build one earning car
+
+Your first goal is not the rarest-looking vehicle. It is a working car that generates cash over time.
+
+Record visible costs
+
+Write down crate price, upgrade price, and cash-per-minute values from your server. Those numbers make the calculator useful.
+
+Upgrade one weak slot
+
+Swap parts gradually so you can tell which upgrade actually improved your build.
+
+Save rare parts
+
+Do not feed rare or high-value parts into experiments until you have a backup cash car.
+
+Safe planning rule
+
+Create a Car can change after updates, so treat visible server numbers as your source of truth. Use this guide as a decision framework, then verify codes, costs, and rewards in-game.
+
+Copy Codes
+
+Open page
+
+Open Calculator
+
+Open page
+
+Best Build
+
+Open page
+
+FAQ
+What should I do first in Create a Car?
+
+Redeem safe codes, build one car that earns cash, then use that income to fund better crates and garage space.
+
+Should beginners use every code immediately?
+
+Use high-confidence codes immediately. Test needs-check codes separately because sources currently disagree on some of them.
+
+What is the biggest beginner mistake?
+
+Spending all cash on random crate rolls before building a reliable income car.

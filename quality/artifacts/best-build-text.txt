@@ -1,0 +1,56 @@
+GARAGE BUILD FRAMEWORK
+Create a Car Best Build Guide
+
+A strong garage is not one overloaded car. Split your progress into cash generation, rarity protection, and controlled experiments.
+
+1. Cash engine car
+
+Build one car whose job is simple: keep earning. This protects your next crate session and upgrade target.
+
+2. Part quality upgrades
+
+Upgrade one weak part slot at a time. Stop when the cash gain or rarity gain is clear.
+
+3. Rare-parts showcase
+
+Move your best rare pulls into a protected showcase slot so experiments do not break your valuable build.
+
+4. Dealer and merge tester
+
+Use duplicate parts and spare cash in a separate slot before risking core components.
+
+PRIORITY SLOTS
+
+Best garage spine
+Full tier list
+Conveyor Cash Farm
+S
+
+Prioritize this before chasing rare flex parts. Cash flow makes every later roll safer.
+
+Rare Parts Showcase
+S
+
+Keep rare parts separated from grind parts so an upgrade experiment does not ruin your best showcase.
+
+Balanced Daily Driver
+A
+
+Upgrade gradually. Do not dismantle the whole car unless a new crate clearly improves two or more slots.
+
+Dealer Flip Build
+A
+
+Use this when your garage is cluttered. Protect rare parts and flip the rest into upgrade attempts.
+
+Score your garage
+
+Use the calculator sliders to decide whether cash, parts, or garage space should be fixed first.
+
+Protect income
+
+Keep the earning car stable before risky crate or merge sessions.
+
+Test safely
+
+Run merge tests with duplicates and notes before touching rare components.

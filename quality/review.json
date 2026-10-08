@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 1,
+  "codeFingerprint": "6d015568e304fdb56b0e72cbbdc7516f12a9577c0aba18efe29599536c6bb65d",
+  "site": {
+    "baseUrl": "https://createacar.robloxwikihub.com/",
+    "officialUrl": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+    "platform": "roblox",
+    "releaseStatus": "released",
+    "placeId": "134772864249515",
+    "identitySourceId": "official-page",
+    "identityReview": {
+      "status": "supported",
+      "reviewer": "Codex agent — Roblox repair subtask",
+      "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+      "artifact": {
+        "path": "quality/artifacts/identity-review.md",
+        "sha256": "7f99dc68190a345f8af90b75f022d45b18e72ae8159fb4b1037c858a5a35eb38"
+      }
+    }
+  },
+  "sources": [
+    {
+      "id": "official-page",
+      "kind": "official",
+      "url": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+      "checkedAt": "2026-10-08T15:56:22.111488+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/roblox-current.html",
+        "sha256": "9aa32321f0211f6e7d23ac94a3d463ce15a81cf6130e37b1bb6b3602782ed468"
+      }
+    },
+    {
+      "id": "official-api",
+      "kind": "official",
+      "url": "https://games.roblox.com/v1/games?universeIds=9903605866",
+      "checkedAt": "2026-10-08T15:56:22.989288+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/roblox-api-current.json",
+        "sha256": "720bf9568eb271cf4e9d40e264afbcc43b5c308f335e4ee2b0ad976e5e8c68e2"
+      }
+    },
+    {
+      "id": "capture-time",
+      "kind": "observation",
+      "url": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+      "checkedAt": "2026-10-08T15:56:22.989288+00:00",
+      "artifact": {
+        "path": "quality/artifacts/sources/roblox-api-current-capture.json",
+        "sha256": "8e122d3d16efb117ce05ab0eff77f2fb00e885c47da7c435587b96008d7c73ea"
+      }
+    },
+    {
+      "id": "app-review",
+      "kind": "observation",
+      "url": "https://createacar.robloxwikihub.com/about/",
+      "checkedAt": "2026-10-08T16:09:06.406970+00:00",
+      "artifact": {
+        "path": "quality/artifacts/implementation-review.md",
+        "sha256": "1a5389ebf21084825c74db08475dee797b8593151486474549a1aa50371374be"
+      }
+    },
+    {
+      "id": "interaction-review",
+      "kind": "observation",
+      "url": "https://createacar.robloxwikihub.com/garage-notebook/",
+      "checkedAt": "2026-10-08T16:02:07.068Z",
+      "artifact": {
+        "path": "quality/artifacts/interaction-review.json",
+        "sha256": "3053d3d8c6afb989784ebb0c21f59f25e4bed7b93e7a51321fa85e20eb4a8a53"
+      }
+    },
+    {
+      "id": "retirement-review",
+      "kind": "observation",
+      "url": "https://createacar.robloxwikihub.com/about/",
+      "checkedAt": "2026-10-08T16:09:06.406970+00:00",
+      "artifact": {
+        "path": "quality/artifacts/retirement-review.json",
+        "sha256": "9ccf5deb87da24771e8bb3a0602274626da0aa0f5523f95fee2474326d65ea27"
+      }
+    }
+  ],
+  "claims": [
+    {
+      "id": "game-identity",
+      "kind": "fact",
+      "statement": "Create a Car is a Roblox game by AssemblerX.",
+      "sourceIds": [
+        "official-page",
+        "official-api"
+      ],
+      "support": "Official heading/By line; API data[0].name and creator.name.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "place-id",
+      "kind": "number",
+      "statement": "Official place ID is 134772864249515.",
+      "sourceIds": [
+        "official-page",
+        "official-api"
+      ],
+      "support": "Official URL matches data[0].rootPlaceId; not confused with universe ID.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "source-date",
+      "kind": "date",
+      "statement": "The official source was read on 2026-10-08 (UTC capture date).",
+      "sourceIds": [
+        "capture-time"
+      ],
+      "support": "Actual checkedAt, not game publication or automatic freshness.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "publisher",
+      "kind": "fact",
+      "statement": "Independent companion published under Hlele; correction contact is lianlele168@gmail.com.",
+      "sourceIds": [
+        "app-review"
+      ],
+      "support": "User identity instruction and previous repository contact, documented in implementation review. No sponsorship/human testing inferred.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "source-review-scope",
+      "kind": "verification",
+      "statement": "Codex compared official source with this edition; no Hlele gameplay or redemption claim.",
+      "sourceIds": [
+        "app-review"
+      ],
+      "support": "Executed read-through and captured official/browser artifacts; described precisely in implementation-review.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "application-privacy",
+      "kind": "fact",
+      "statement": "App has no account connection, sign-in, ad or analytics script; external destinations are separate.",
+      "sourceIds": [
+        "app-review"
+      ],
+      "support": "Inspection of current application files. Hosting requests remain disclosed; no claim about opaque infrastructure/legal compliance.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "retired-content",
+      "kind": "fact",
+      "statement": "Earlier unsupported rankings, numerical models and guides were removed.",
+      "sourceIds": [
+        "retirement-review"
+      ],
+      "support": "Former archive, replacement routes and local HTTP404 tests.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "car-building",
+      "kind": "fact",
+      "statement": "Description lists crate part collection and cars built from Frames, Engines and Wheels.",
+      "sourceIds": [
+        "official-api",
+        "official-page"
+      ],
+      "support": "API description first two feature lines and official Description section.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "car-income-showroom",
+      "kind": "fact",
+      "statement": "Description says cars earn cash offline and can be displayed in a Showroom.",
+      "sourceIds": [
+        "official-api"
+      ],
+      "support": "Description offline/Showroom lines; no rate/storage/payout formula added.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "car-progression",
+      "kind": "fact",
+      "statement": "Description lists Prestige, ranked racing and Season Pass rewards.",
+      "sourceIds": [
+        "official-api"
+      ],
+      "support": "Description final three feature lines; no cost/buff/duration added.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "source-limits",
+      "kind": "fact",
+      "statement": "Reviewed source does not supply exact part stats, crate odds, prestige costs or income formula.",
+      "sourceIds": [
+        "official-api"
+      ],
+      "support": "Entire description reviewed; absence limited to this source, not all possible sources.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    },
+    {
+      "id": "notebook-functionality",
+      "kind": "fact",
+      "statement": "User notes can be saved locally, compared, deleted and exported; failures are reported.",
+      "sourceIds": [
+        "app-review",
+        "interaction-review"
+      ],
+      "support": "No game model or network send; actual 12-case tests cover persistence/errors. Plain-text journal has no formula to calibrate.",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      }
+    }
+  ],
+  "pages": [
+    {
+      "path": "/",
+      "status": "ready",
+      "intent": "Find official game and supported features",
+      "uniqueValue": "Specific official identity/source boundary and direct entry to useful companion utility.",
+      "indexable": true,
+      "claimIds": [
+        "publisher",
+        "game-identity",
+        "place-id",
+        "source-date",
+        "source-limits",
+        "car-building",
+        "car-income-showroom",
+        "car-progression",
+        "notebook-functionality"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/home.html",
+        "sha256": "ddec697127ca5c2876555fbdce61d8da7fcfaec689304e22e9ef496e7362cca3"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/home-technical.json",
+        "sha256": "75dc8b2882358be2b9a83dd379386e465c03c7fb7242310085cd49e46dfda3aa"
+      }
+    },
+    {
+      "path": "/about/",
+      "status": "ready",
+      "intent": "Check publisher and review scope",
+      "uniqueValue": "Actual source-review limits and correction contact, no fake human endorsement.",
+      "indexable": false,
+      "claimIds": [
+        "publisher",
+        "game-identity",
+        "source-review-scope",
+        "retired-content"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/about.html",
+        "sha256": "8c25449c6cdc2eaddb191d0c205ceed328ba2c3e7d55d4c5ea0eb5e32ed650b8"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/about-technical.json",
+        "sha256": "3bc60fd34020d879a7c0e85d7035d40666cc3a69a803476cf1235cc9bf871364"
+      }
+    },
+    {
+      "path": "/garage-notebook/",
+      "status": "ready",
+      "intent": "Record and compare personal setups",
+      "uniqueValue": "Browser-local observation journal with export, no unsupported rankings.",
+      "indexable": true,
+      "claimIds": [
+        "publisher",
+        "game-identity",
+        "car-building",
+        "notebook-functionality",
+        "application-privacy"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/garage-notebook.html",
+        "sha256": "45d1b5355f13f02a7404003ec30b899a1f6ac61f8989a44b1d9664ecf4450752"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/garage-notebook-technical.json",
+        "sha256": "54fb5ee2a87660b46a8a39aa6cab64427de047a8af3daf54b3af4cb10b828ce0"
+      }
+    },
+    {
+      "path": "/privacy-policy/",
+      "status": "ready",
+      "intent": "Understand application data handling",
+      "uniqueValue": "Specific local storage/export behavior.",
+      "indexable": false,
+      "claimIds": [
+        "publisher",
+        "game-identity",
+        "application-privacy",
+        "notebook-functionality"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/privacy-policy.html",
+        "sha256": "af944264abedda958dcd26b5e6894f5ee87592b896232144f6ffc60dbc115bac"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/privacy-policy-technical.json",
+        "sha256": "8d14af1c90f5311672d5e27cbd9d3a08c28df418dc62d4edd6171ff2ce5d1e3a"
+      }
+    },
+    {
+      "path": "/terms/",
+      "status": "ready",
+      "intent": "Understand companion scope",
+      "uniqueValue": "Independent informational use and contact; no game outcome promise.",
+      "indexable": false,
+      "claimIds": [
+        "publisher",
+        "game-identity",
+        "application-privacy"
+      ],
+      "claimCoverage": "complete",
+      "crossPageConsistency": "passed",
+      "review": {
+        "status": "supported",
+        "reviewer": "Codex agent — Roblox repair subtask",
+        "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+        "artifact": {
+          "path": "quality/content-review.md",
+          "sha256": "272d5d55df2cf6f193a9ed9c350a33df54e39c0fe4e8ecff5f4380c9f25b7539"
+        }
+      },
+      "renderedArtifact": {
+        "path": "quality/artifacts/terms.html",
+        "sha256": "06406dd37381f82a9b744040bf65461f4a7ca6a7f7aca220baeae0acccfafee4"
+      },
+      "technicalArtifact": {
+        "path": "quality/artifacts/terms-technical.json",
+        "sha256": "a89c298f96e2a13ee3590ff9b3082ac2788c6169f04bb9a222be53ebf3aa5abe"
+      }
+    }
+  ],
+  "routeInventoryArtifact": {
+    "path": "quality/artifacts/routes.json",
+    "sha256": "80e81d4c675fab747ca5302288983c312c28c06875226282f691600f4692418b"
+  },
+  "sitemapPaths": [
+    "/",
+    "/garage-notebook/"
+  ],
+  "sitemapArtifact": {
+    "path": "quality/artifacts/sitemap.xml",
+    "sha256": "433d28826655ce6782283e7218854489ddaaaf6c774666f10bdaac1e2d651a07"
+  },
+  "skillRunArtifact": {
+    "path": "quality/skill-run.md",
+    "sha256": "f79910cae15b6d5a00d6c768d3f8bc88743f5f29b63fdaf4b3dd93f9cc170828"
+  },
+  "buildArtifact": {
+    "path": "quality/artifacts/build.log",
+    "sha256": "d894e7ca59c8b3c1d923bc34e61fb6c5b3f33e0a35836e31d9ebc0d503e100ca"
+  },
+  "buildStatus": "passed",
+  "unresolved": []
+}

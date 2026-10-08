@@ -1,0 +1,76 @@
+{
+  "path": "/codes/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:50.684Z",
+  "testedUrl": "http://127.0.0.1:64864/codes/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/codes/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/codes-390.png",
+        "sha256": "44a1ff5c878da03903fa47416681762cf94de07d99a40ce787f840de74aebf20"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/codes-768.png",
+        "sha256": "250807fab813a64a42e72e92523d509edb75df33558890ab4d20b18147b0e531"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/codes-1024.png",
+        "sha256": "a3f0693fd8181f062b47119c94b48cb3de3d3c7b6645399b3ceb5cd58cf39b42"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/codes-1440.png",
+        "sha256": "3787725ab97b94c42df924ffded041a0992f1748fd2222e9dae21096d594641c"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

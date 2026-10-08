@@ -1,0 +1,76 @@
+{
+  "path": "/parts-guide/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:56.430Z",
+  "testedUrl": "http://127.0.0.1:64864/parts-guide/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/parts-guide/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/parts-guide-390.png",
+        "sha256": "134a513a31ab6bc280a3843f9a10ec511f7ad61fc0981f299e677b61059d6a10"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/parts-guide-768.png",
+        "sha256": "7b9f0df6bf042cb3d09eaa21e89f01f4fc67c058ef19445b9d1fac038dbe3d19"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/parts-guide-1024.png",
+        "sha256": "a9f7bbfa01d2b28c11951ee1c3c9f019badf21cfa1890f8024846f964dcccf8b"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/parts-guide-1440.png",
+        "sha256": "b751ebfd60aea0a196193937ff65faa0b11b6a7e714c8b1d0b33e0d3f4709153"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

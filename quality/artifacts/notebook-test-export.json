@@ -1,0 +1,21 @@
+{
+  "format": "create-a-car-notebook-v1",
+  "notes": [
+    {
+      "name": "Trial A",
+      "frame": "My recorded frame",
+      "engine": "",
+      "wheels": "",
+      "observation": "<script>alert(1)</script> saved literally",
+      "id": "e07cecb1-1ebd-48b2-8b37-0996f73ffd93"
+    },
+    {
+      "name": "Trial B",
+      "frame": "My recorded frame",
+      "engine": "",
+      "wheels": "",
+      "observation": "Changed only my wheels; recorded my observation.",
+      "id": "3cc3fd8b-4a7e-4f06-bf6c-40729279036f"
+    }
+  ]
+}

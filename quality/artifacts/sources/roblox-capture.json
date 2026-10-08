@@ -1,0 +1,14 @@
+{
+  "project": "create-a-car-wiki",
+  "id": "roblox",
+  "url": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+  "checkedAt": "2026-10-08T15:23:20.641Z",
+  "review": "pending",
+  "status": 200,
+  "finalUrl": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+  "contentType": "text/html; charset=utf-8",
+  "artifact": {
+    "path": "quality/artifacts/sources/roblox.html",
+    "sha256": "c29f70435b09f54748a3349fb7c6f68cb959a9ee27c3957dfefc034e766d6dc6"
+  }
+}

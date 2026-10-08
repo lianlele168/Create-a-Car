@@ -1,0 +1,76 @@
+{
+  "path": "/tier-list/dealer-flip-build/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:05.934Z",
+  "testedUrl": "http://127.0.0.1:64864/tier-list/dealer-flip-build/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/tier-list/dealer-flip-build/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dealer-flip-build-390.png",
+        "sha256": "01c7c32c372bb2a0d32a2e19707f00ce724d7bd69ef9d743e184a8c81985819c"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dealer-flip-build-768.png",
+        "sha256": "06bebe3d4bb09f8cb42130722a667662399179a590cac09e32e389c9a9c1c525"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dealer-flip-build-1024.png",
+        "sha256": "eebaa1a0e1cb255354c649ece6a0b16165439ab5a4b7c92ff4300ce898a5a10d"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dealer-flip-build-1440.png",
+        "sha256": "ccaebf84668020913face675c92965e4ebbf0bfa6c3d101794a60a8524d01783"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

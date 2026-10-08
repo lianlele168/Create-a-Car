@@ -1,0 +1,78 @@
+{
+  "path": "/terms/",
+  "codeFingerprint": "6d015568e304fdb56b0e72cbbdc7516f12a9577c0aba18efe29599536c6bb65d",
+  "checkedAt": "2026-10-08T16:02:15.800Z",
+  "testedUrl": "http://127.0.0.1:62507/terms/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/terms/",
+  "robotsAllowed": true,
+  "indexAllowed": false,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/terms-390.png",
+        "sha256": "b5fd534dc85a60f966c394fb08d66fef29b1fa9b3f9ddd43cfd27c2c6ce57cab"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/terms-768.png",
+        "sha256": "5d93014b4cb8147879518589b789badeac23ef1246a0a8c5d551cabb697bef42"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/terms-1024.png",
+        "sha256": "b27bdc97b43792f55bb0890e40e188158564467be6ca1aaa4fe45d3aea2b87b8"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": true,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/terms-1440.png",
+        "sha256": "855f039081a9af07db6db88e3b62fa0c1a9903d564da8cfc971084a5e2b02366"
+      }
+    }
+  ],
+  "interaction": "not-applicable",
+  "contentReview": "completed in quality/content-review.md",
+  "note": "Actual local production-export capture plus subsequent visual/content review. Does not certify deployment or indexing.",
+  "visualReviewer": "Codex agent — all four saved screenshots actually inspected",
+  "visualReviewedAt": "2026-10-08T16:09:06.406970+00:00",
+  "interactionReason": "Static information/standard links; no page-specific widget. Collector requested all internal href destinations.",
+  "externalLinkReview": "Only external HTTP destination is official Roblox page, captured HTTP 200 in sources/roblox-current-capture.json. mailto retained; no email sent."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "roblox",
+  "url": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+  "checkedAt": "2026-10-08T15:56:22.111488+00:00",
+  "status": 200,
+  "finalUrl": "https://www.roblox.com/games/134772864249515/Create-a-Car",
+  "artifact": {
+    "path": "quality/artifacts/sources/roblox-current.html",
+    "sha256": "9aa32321f0211f6e7d23ac94a3d463ce15a81cf6130e37b1bb6b3602782ed468"
+  }
+}

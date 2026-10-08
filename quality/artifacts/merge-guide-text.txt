@@ -1,0 +1,53 @@
+MERGE SAFETY
+Create a Car Merge Guide
+
+Test Create a Car merge updates safely by using duplicate parts, keeping a backup car, and avoiding rare-part losses.
+
+Use duplicates first
+
+The safest merge test starts with parts you can replace without hurting your main build.
+
+Keep a backup car
+
+Never run merge tests on the only car that funds your cash flow.
+
+One experiment at a time
+
+Change one variable so you can tell what affected the result.
+
+Separate rumor from result
+
+Treat YouTube, Discord, and code pages as leads until your server confirms the behavior.
+
+Respect source conflicts
+
+MERGER and NEWMERGER appear in current code sources, but both should be tested before budgeting around them.
+
+Safe planning rule
+
+Create a Car can change after updates, so treat visible server numbers as your source of truth. Use this guide as a decision framework, then verify codes, costs, and rewards in-game.
+
+Check Merge Codes
+
+Open page
+
+Merge Test Slot
+
+Open page
+
+Best Build
+
+Open page
+
+FAQ
+When should I merge parts?
+
+Merge only after you have duplicates or a protected backup setup.
+
+Is MERGER active?
+
+Some sources list MERGER active, while SuperCheats marks it expired. Test in-game and treat it as needs-check.
+
+How do I avoid bad merge losses?
+
+Use replaceable parts, keep notes, and never risk the core part of your income car.

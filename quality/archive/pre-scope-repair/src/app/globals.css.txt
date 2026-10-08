@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --garage-ink: #080b12;
+  --asphalt: #111827;
+  --signal-red: #ef4444;
+  --workbench: #f59e0b;
+  --electric: #22d3ee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    linear-gradient(180deg, rgba(8, 11, 18, 0.98) 0%, rgba(17, 24, 39, 0.96) 46%, rgba(10, 15, 24, 1) 100%),
+    repeating-linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0 28px, rgba(34, 211, 238, 0.04) 28px 56px);
+  color: #f8fafc;
+}
+
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.page-shell {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.surface {
+  @apply border border-white/10 bg-slate-950/80 shadow-xl backdrop-blur-md;
+  border-radius: 8px;
+}
+
+.surface-light {
+  @apply border border-slate-200 bg-white text-slate-950 shadow-xl;
+  border-radius: 8px;
+}
+
+.metric-tile {
+  @apply border border-white/10 bg-slate-900 px-4 py-3;
+  border-radius: 8px;
+}
+
+.field-tile {
+  @apply border border-cyan-400/20 bg-cyan-950/25;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-md bg-amber-400 px-5 py-2.5 text-sm font-extrabold text-slate-950 shadow-lg shadow-amber-950/30 transition hover:bg-amber-300 active:translate-y-px;
+}
+
+.btn-secondary {
+  @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-md border border-white/20 bg-white/10 px-5 py-2.5 text-sm font-bold text-white transition hover:border-cyan-300 hover:bg-white/10 active:translate-y-px;
+}
+
+.btn-quiet {
+  @apply inline-flex min-h-10 items-center justify-center gap-2 rounded-md border border-slate-700 bg-slate-900 px-4 py-2 text-xs font-bold text-slate-200 transition hover:border-cyan-300 hover:text-white;
+}
+
+.badge-active {
+  @apply inline-flex items-center gap-1 rounded-full border border-cyan-300/40 bg-cyan-400/10 px-2.5 py-1 text-[11px] font-bold text-cyan-100;
+}
+
+.badge-check {
+  @apply inline-flex items-center gap-1 rounded-full border border-amber-300/40 bg-amber-300/10 px-2.5 py-1 text-[11px] font-bold text-amber-100;
+}
+
+.badge-expired {
+  @apply inline-flex items-center gap-1 rounded-full border border-slate-600 bg-slate-800 px-2.5 py-1 text-[11px] font-bold text-slate-400;
+}
+
+.tier-s {
+  @apply bg-amber-300 text-slate-950;
+}
+
+.tier-a {
+  @apply bg-cyan-300 text-cyan-950;
+}
+
+.tier-b {
+  @apply bg-lime-300 text-lime-950;
+}
+
+.tier-c {
+  @apply bg-orange-300 text-orange-950;
+}
+
+.tier-d {
+  @apply bg-rose-300 text-rose-950;
+}
+
+.hero-bg {
+  background-image:
+    linear-gradient(90deg, rgba(8, 11, 18, 0.95) 0%, rgba(8, 11, 18, 0.76) 45%, rgba(8, 11, 18, 0.24) 100%),
+    url("/hero-bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.table-grid {
+  grid-template-columns: minmax(130px, 1fr) minmax(240px, 2fr) minmax(130px, 0.9fr) minmax(110px, 0.7fr);
+}
+
+@media (max-width: 760px) {
+  .table-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #080b12;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}

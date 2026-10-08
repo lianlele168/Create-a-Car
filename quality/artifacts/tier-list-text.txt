@@ -1,0 +1,113 @@
+BUILD PURPOSE FRAMEWORK
+Create a Car Tier List
+
+This page ranks car build archetypes based on public mechanics: roll parts, build cars, earn cash over time, upgrade crates, and grow garage space.
+
+No reliable public source currently exposes a full hidden part-stat table. This tier list is intentionally framed as a build-purpose guide so it does not invent exact part values.
+
+S
+S-Tier Build Archetypes
+
+Sorted by practical garage priority.
+
+Conveyor Cash Farm
+96/100
+
+A stable cash-first car setup that keeps earning while you save for better crates and more garage space.
+
+Early cash
+AFK-style earning
+Garage upgrades
+Full build notes
+Rare Parts Showcase
+92/100
+
+A build slot reserved for your rarest compatible parts so you can keep value without breaking your income car.
+
+Leaderboards
+Rarity goals
+Late-game garage value
+Full build notes
+A
+A-Tier Build Archetypes
+
+Sorted by practical garage priority.
+
+Balanced Daily Driver
+86/100
+
+A flexible car that uses your best non-premium parts while saving rare boxes for a clear milestone.
+
+New updates
+General play
+Low-risk upgrades
+Full build notes
+Dealer Flip Build
+82/100
+
+A practical setup for turning spare parts and code cash into better crate attempts without touching your main car.
+
+Dealer code tests
+Mid-game cash
+Inventory cleanup
+Full build notes
+B
+B-Tier Build Archetypes
+
+Sorted by practical garage priority.
+
+Merge Test Slot
+74/100
+
+A separate build slot for merge experiments so you can learn the system without sacrificing your best income setup.
+
+Merger updates
+Testing recipes
+Risk control
+Full build notes
+Speed Roll Chaser
+68/100
+
+A fun build path that chases exciting parts, but it can drain cash if you chase every crate upgrade too early.
+
+Fun builds
+Rare pulls
+Short sessions
+Full build notes
+C
+C-Tier Build Archetypes
+
+Sorted by practical garage priority.
+
+Starter Box Build
+54/100
+
+The first functional car assembled from early boxes. It is useful for learning, but should not trap your cash.
+
+First hour
+Learning parts
+Cheap upgrades
+Full build notes
+D
+D-Tier Build Archetypes
+
+Sorted by practical garage priority.
+
+Dead Slot Collector
+28/100
+
+A car that exists only because random parts were attached without a cash, rarity, or upgrade plan.
+
+Temporary storage
+Full build notes
+Calculate cash reserve
+
+Use the calculator before burning cash on expensive crate sessions.
+
+Build the garage spine
+
+Turn archetypes into a practical cash, flex, and experiment split.
+
+Avoid merge traps
+
+Know when to test duplicates instead of risking rare parts.

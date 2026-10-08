@@ -1,0 +1,3 @@
+export default function AuthorCard() {
+  return <aside className="my-6 rounded-xl border border-white/10 p-5 text-sm text-slate-300"><strong>Hlele · Independent editorial</strong><p className="mt-2">AI-assisted content. The current review has not verified every rating, numerical claim or game version on this site. No in-game benchmark or human review is claimed.</p><p className="mt-2">Corrections: <a href="mailto:lianlele168@gmail.com">lianlele168@gmail.com</a></p></aside>;
+}

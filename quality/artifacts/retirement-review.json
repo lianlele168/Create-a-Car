@@ -1,0 +1,40 @@
+{
+  "reviewedAt": "2026-10-08T16:09:06.406970+00:00",
+  "reviewer": "Codex agent — Roblox repair subtask",
+  "retiredPaths": [
+    "/beginner-guide/",
+    "/best-build/",
+    "/calculator/",
+    "/codes/",
+    "/conveyor-guide/",
+    "/dealer-guide/",
+    "/merge-guide/",
+    "/parts-guide/",
+    "/tier-list/",
+    "/tier-list/balanced-daily-driver/",
+    "/tier-list/conveyor-cash-farm/",
+    "/tier-list/dead-slot-collector/",
+    "/tier-list/dealer-flip-build/",
+    "/tier-list/merge-test-slot/",
+    "/tier-list/rare-parts-showcase/",
+    "/tier-list/speed-roll-chaser/",
+    "/tier-list/starter-box-build/",
+    "/updates/"
+  ],
+  "replacementRoutes": [
+    "/",
+    "/about/",
+    "/garage-notebook/",
+    "/privacy-policy/",
+    "/terms/"
+  ],
+  "reason": "Unsupported ratings, formulas, precise rewards and duplicated guidance removed. No unrelated-home redirects. Actual local static-export HTTP 404 checked; production host needs post-deployment recheck.",
+  "sourceArchiveManifest": {
+    "path": "quality/archive/pre-scope-repair/manifest.json",
+    "sha256": "5adb737cc36f60ebd0523ff03992305a67917564ddb91014b2307a99cb2060cc"
+  },
+  "interactionEvidence": {
+    "path": "quality/artifacts/interaction-review.json",
+    "sha256": "3053d3d8c6afb989784ebb0c21f59f25e4bed7b93e7a51321fa85e20eb4a8a53"
+  }
+}

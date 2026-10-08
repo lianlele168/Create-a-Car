@@ -1,0 +1,76 @@
+{
+  "path": "/conveyor-guide/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:22:52.205Z",
+  "testedUrl": "http://127.0.0.1:64864/conveyor-guide/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/conveyor-guide/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/conveyor-guide-390.png",
+        "sha256": "4ff67b3513640f81a1cfa95d48d9e82e8037c26b5c31cb4dc6787ed7aa625f3f"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/conveyor-guide-768.png",
+        "sha256": "a1745fedd692f9fce47df0b53fe612dcf7c87a40774545bf243919795bffe78c"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/conveyor-guide-1024.png",
+        "sha256": "c04377b6eedd9dd71b7e2cd5adf6c8ccdb10be672a6479241fbe091472ef8fe9"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/conveyor-guide-1440.png",
+        "sha256": "c424a7a6ea35555c61e4435ddd09f7c637f508be4da0d795e7471532d3dd0148"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

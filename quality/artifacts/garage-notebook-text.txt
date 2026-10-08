@@ -1,0 +1,26 @@
+HOME / COMPANION
+
+Garage notebook
+
+Keep the setup you tried and the result you actually saw.
+
+Use the part names shown in your game. Leave optional fields blank if they do not apply. For a useful comparison, record the conditions as well as the result — this is a note-taking suggestion, not a claim about the best build.
+
+Notes stay in this browser when storage is available. They are not sent to a server or synchronized with Roblox. Export a backup before clearing browser data; do not put passwords or personal details in your notes.
+
+Record a build
+Build name (required)
+Frame (optional)
+Engine (optional)
+Wheels (optional)
+What changed or happened? (required)
+Save note
+Clear form
+
+Your saved observations
+
+These are your notes. This site does not score builds, predict earnings, or read your Roblox inventory.
+
+No saved notes yet. Add one above, then record another setup to compare your observations.
+
+Export notes

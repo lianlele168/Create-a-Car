@@ -1,0 +1,76 @@
+{
+  "path": "/tier-list/dead-slot-collector/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:04.725Z",
+  "testedUrl": "http://127.0.0.1:64864/tier-list/dead-slot-collector/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/tier-list/dead-slot-collector/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dead-slot-collector-390.png",
+        "sha256": "232245b325b575e49e3d4adf8d75a0857d2978ae774c08e1a5ee644226fcd389"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dead-slot-collector-768.png",
+        "sha256": "a239473a7f2114510130efa662f5d7721119f8d7fd7fedc5649e7660d8218039"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dead-slot-collector-1024.png",
+        "sha256": "40d3c2c5b8fef34e933e1ce2152472b0edbf1d8b9d06195937fcf34be4d472e9"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__dead-slot-collector-1440.png",
+        "sha256": "22fd42ef82bc5e2fa73533fb6b690347fb9a3d1788e33343fee03ea2e86368fd"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

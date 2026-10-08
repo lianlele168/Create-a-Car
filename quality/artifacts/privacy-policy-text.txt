@@ -1,0 +1,15 @@
+HOME / COMPANION
+
+Privacy
+
+This companion does not include a sign-in form, account connection, advertising script or analytics script in its application code. Loading a page still sends normal web requests to the hosting provider.
+
+Your notebook
+
+Saved notes use localStorage in this browser. The application does not send note contents to a server. You can delete an individual note in the notebook; clearing site data in your browser removes the locally saved collection. Exports create a JSON download containing your notes.
+
+If storage is blocked, the tool tells you and retains new notes only in the current tab. Do not include account credentials or personal information.
+
+External links
+
+Opening Roblox or an email application leaves this site. Their data practices are separate. Contact lianlele168@gmail.com with questions about this companion.

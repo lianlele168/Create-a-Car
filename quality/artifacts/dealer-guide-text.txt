@@ -1,0 +1,53 @@
+DEALER PLANNING
+Create a Car Dealer Guide
+
+Use Create a Car dealer logic cautiously by flipping spare parts and cash without risking your core income or rare-part builds.
+
+Make a sell pile
+
+Only consider parts that are duplicate, low-impact, or already replaced by better components.
+
+Protect income parts
+
+Never sell or risk the part that keeps your best earning car working.
+
+Convert clutter into attempts
+
+Dealer-style cash conversion is best when it turns unused inventory into a planned crate session.
+
+Test conflicting codes
+
+DEALER is currently source-conflicted, so test it in-game before counting the reward.
+
+Track results
+
+Keep simple notes on what you sold or bought so repeatable choices emerge over time.
+
+Safe planning rule
+
+Create a Car can change after updates, so treat visible server numbers as your source of truth. Use this guide as a decision framework, then verify codes, costs, and rewards in-game.
+
+Check DEALER
+
+Open page
+
+Plan Cash
+
+Open page
+
+Parts Guide
+
+Open page
+
+FAQ
+Is DEALER active?
+
+Several sources list DEALER active, while SuperCheats marks it expired. The codes page keeps it as needs-check.
+
+What should I sell first?
+
+Start with duplicate or low-purpose parts, not rare parts or your cash-engine components.
+
+When is dealer flipping worth it?
+
+When it turns clutter into a clear upgrade or crate session without damaging your main builds.

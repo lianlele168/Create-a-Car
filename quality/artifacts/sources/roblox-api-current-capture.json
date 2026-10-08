@@ -1,0 +1,11 @@
+{
+  "id": "roblox-api",
+  "url": "https://games.roblox.com/v1/games?universeIds=9903605866",
+  "checkedAt": "2026-10-08T15:56:22.989288+00:00",
+  "status": 200,
+  "finalUrl": "https://games.roblox.com/v1/games?universeIds=9903605866",
+  "artifact": {
+    "path": "quality/artifacts/sources/roblox-api-current.json",
+    "sha256": "720bf9568eb271cf4e9d40e264afbcc43b5c308f335e4ee2b0ad976e5e8c68e2"
+  }
+}

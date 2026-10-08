@@ -1,0 +1,76 @@
+{
+  "path": "/tier-list/starter-box-build/",
+  "codeFingerprint": "451cb7d021d4887dc39260b239bf15ab8d0fdd25cc5afb5be552dbda3e5519ef",
+  "checkedAt": "2026-10-08T15:23:11.229Z",
+  "testedUrl": "http://127.0.0.1:64864/tier-list/starter-box-build/",
+  "httpStatus": 200,
+  "canonical": "https://createacar.robloxwikihub.com/tier-list/starter-box-build/",
+  "robotsAllowed": true,
+  "indexAllowed": true,
+  "consoleErrors": 0,
+  "errors": [],
+  "links": "passed",
+  "linkScope": "internal only",
+  "brokenLinks": [],
+  "externalLinksNotChecked": [
+    "https://www.roblox.com/games/134772864249515/Create-a-Car"
+  ],
+  "blockedExternalRequests": [],
+  "viewports": [
+    {
+      "width": 390,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 390,
+        "client": 390
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__starter-box-build-390.png",
+        "sha256": "a1810b26824457d47f5455594c023d1131f024e878efcd1fcc813e2ab05fa136"
+      }
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 768,
+        "client": 768
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__starter-box-build-768.png",
+        "sha256": "01b3aa235fc4ca5ddce30a12a40a4dc1c83230aabb9d656464c6511733885b7b"
+      }
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1024,
+        "client": 1024
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__starter-box-build-1024.png",
+        "sha256": "c9ae828ad222e9519dd1a09f2a497ef411a5b9244b22e10448e4a2bea354b56f"
+      }
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "readable": null,
+      "sizes": {
+        "scroll": 1440,
+        "client": 1440
+      },
+      "screenshot": {
+        "path": "quality/artifacts/tier-list__starter-box-build-1440.png",
+        "sha256": "2cf0e8d58db6936f0f57b09faa193c55e03ba0ffd6ed93e76a5d0ffdec51664f"
+      }
+    }
+  ],
+  "interaction": "not-tested",
+  "contentReview": "pending",
+  "note": "Actual local static-export observations. Screenshot readability, external services, facts and interactions still require review."
+}

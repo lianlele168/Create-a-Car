@@ -1,0 +1,66 @@
+SOURCE LOG
+Create a Car Updates & Sources
+
+This page records what was checked, where the code conflicts are, and which public Roblox data powers this unofficial wiki.
+
+Visits
+7.38M+
+Playing
+874
+Favorites
+151.8K+
+Max Players
+6
+3 active codes
+
+CONVEYOR, GRIND, and FIXES appear current across multiple checked sources.
+
+5 needs-check codes
+
+These codes are useful search terms but have source conflicts or single-source status.
+
+2 expired codes
+
+Expired entries are preserved for players checking old YouTube or social posts.
+
+Checked sources
+Roblox game page
+https://www.roblox.com/games/134772864249515/Create-a-Car
+Roblox games API
+https://games.roblox.com/v1/games?universeIds=9903605866
+Roblox Den codes page
+https://robloxden.com/game-codes/create-a-car
+Destructoid codes page
+https://www.destructoid.com/create-a-car-codes/
+SuperCheats codes page
+https://www.supercheats.com/create-a-car-codes
+UrGameTips codes page
+https://urgametips.com/create-a-car-codes/
+Code conflict notes
+PRESTIGE
+
+Roblox Den
+
+Roblox Den lists PRESTIGE active, but other current code pages do not all include it yet. Test in-game before planning around it.
+
+NEWMERGER
+
+Roblox Den
+
+Roblox Den lists NEWMERGER active; keep it separate from confirmed multi-source codes until verified in-game.
+
+MERGER
+
+Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired
+
+Several sources still list MERGER active, but SuperCheats moved it to expired on .
+
+INDEX
+
+Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired
+
+DEALER
+
+Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired
+
+Review Codes

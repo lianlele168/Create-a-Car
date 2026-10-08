@@ -1,0 +1,53 @@
+CRATES AND PARTS
+Create a Car Parts Guide
+
+Use crates and parts boxes more carefully in Create a Car by separating cash upgrades, rarity collection, and experiment parts.
+
+Separate part purpose
+
+Label every useful part as income, rarity, experiment, or spare. This makes upgrade decisions easier.
+
+Open crates in sessions
+
+Spend in planned sessions instead of one-click draining your entire cash reserve.
+
+Protect high-rarity pulls
+
+Move rare parts into a showcase or protected slot before testing dealer or merge ideas.
+
+Use boxes to fix weak slots
+
+A box reward is most valuable when it targets the weakest visible slot in your main car.
+
+Stop after a clear win
+
+When a crate improves the target slot, pause and rebuild around that improvement before buying more.
+
+Safe planning rule
+
+Create a Car can change after updates, so treat visible server numbers as your source of truth. Use this guide as a decision framework, then verify codes, costs, and rewards in-game.
+
+Plan Crates
+
+Open page
+
+Build Tier List
+
+Open page
+
+Merge Guide
+
+Open page
+
+FAQ
+Which parts should I upgrade first?
+
+Upgrade the part slot that improves cash generation or fixes the biggest weakness in your main car.
+
+Are rare parts always better?
+
+Not always for early progress. A rare flex part can be less useful than a cheaper part that boosts income.
+
+How many crates should I open?
+
+Use the calculator with your visible crate cost and keep a reserve before buying a batch.

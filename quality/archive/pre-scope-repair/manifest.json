@@ -1,0 +1,157 @@
+[
+  {
+    "original": "src/app/globals.css",
+    "archive": "quality/archive/pre-scope-repair/src/app/globals.css.txt",
+    "sha256": "dacc1925104121f0d3661e082c2b4e9c637a7c70290207de3ff09327a26a67f9"
+  },
+  {
+    "original": "src/app/layout.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/layout.tsx.txt",
+    "sha256": "4887a0d2779e5210a5d5b147e3e14c0c354d7f572750ae7b20d785ec391aa8da"
+  },
+  {
+    "original": "src/app/not-found.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/not-found.tsx.txt",
+    "sha256": "1d97e35bbd535222ce181b6450a9b431475a9c3ffc4e2c4988725cd7db9cb216"
+  },
+  {
+    "original": "src/app/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/page.tsx.txt",
+    "sha256": "957376c6ae348e7c4ad21c382dbd0eb6f7d38b4c3709bcc4cc4a47de3f23f9c3"
+  },
+  {
+    "original": "src/app/about/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/about/page.tsx.txt",
+    "sha256": "abf356e1867a4ed1a4b4a1683a71f4d6de5a3779050c11160ec3938d6a77a9d4"
+  },
+  {
+    "original": "src/app/beginner-guide/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/beginner-guide/page.tsx.txt",
+    "sha256": "fa2b1e678e533b0af2d76c537199084fba3fce4c7eaed09108402157006b5fca"
+  },
+  {
+    "original": "src/app/best-build/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/best-build/page.tsx.txt",
+    "sha256": "6fc0e29dc096d8dc9e05842095548954ea2947f3664821812795c5f4d83b16db"
+  },
+  {
+    "original": "src/app/calculator/CalculatorClient.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/calculator/CalculatorClient.tsx.txt",
+    "sha256": "d91db954ff62551f618298259a4d1c2ebbf28dc3686c8748d30c76d4d8f69fb7"
+  },
+  {
+    "original": "src/app/calculator/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/calculator/page.tsx.txt",
+    "sha256": "5420f2ffc2dad3d01dfd259c2501995a24e9e0440c9b953258090b00c0fe3bdf"
+  },
+  {
+    "original": "src/app/codes/CodesClient.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/codes/CodesClient.tsx.txt",
+    "sha256": "760f435704199bb039bee9357a9bb3682502f9230916d8dc080e46561b0dc97e"
+  },
+  {
+    "original": "src/app/codes/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/codes/page.tsx.txt",
+    "sha256": "0d0711b4e7a025855c6d77a78f9a275f439f73893337bde9a6826ba43c3f2fef"
+  },
+  {
+    "original": "src/app/conveyor-guide/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/conveyor-guide/page.tsx.txt",
+    "sha256": "b56dc4df6704e0c5d831523ae9ad245f028110229ed9af8669091f140bccd86a"
+  },
+  {
+    "original": "src/app/dealer-guide/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/dealer-guide/page.tsx.txt",
+    "sha256": "e3ddbb4b916846abcdc1b6c7aee1656d9eaf7843c755eaea4316c1e48ec4cf6b"
+  },
+  {
+    "original": "src/app/merge-guide/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/merge-guide/page.tsx.txt",
+    "sha256": "e396db44e949838e7086ee2766b83361259ffb250a78e36c8db8713f55fe9859"
+  },
+  {
+    "original": "src/app/parts-guide/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/parts-guide/page.tsx.txt",
+    "sha256": "0a4fa0534b1b6daac81f008ef7bcf79e061bdababfdf7b12912b02b7461f8e54"
+  },
+  {
+    "original": "src/app/privacy-policy/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/privacy-policy/page.tsx.txt",
+    "sha256": "427fa17a144656e66bceb8168d8ac92601c404f5bd442763eda03935eba58ee8"
+  },
+  {
+    "original": "src/app/terms/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/terms/page.tsx.txt",
+    "sha256": "36e20a123040540933968c7895c5e7d1090f64696d5c79d35255f40d697491e3"
+  },
+  {
+    "original": "src/app/tier-list/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/tier-list/page.tsx.txt",
+    "sha256": "f54a141bbb741f75528516f3df47ca4e23c7bdd10114efbfed7406e0782bfcc3"
+  },
+  {
+    "original": "src/app/tier-list/[slug]/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/tier-list/[slug]/page.tsx.txt",
+    "sha256": "6039b033c327b9eba221322e3abc37f28e9c1c17db92dfb82c56f47f322b7392"
+  },
+  {
+    "original": "src/app/updates/page.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/app/updates/page.tsx.txt",
+    "sha256": "93a58910726092d2f591c9d46cfa924067a14231cc5d23be0b6377e835049e8a"
+  },
+  {
+    "original": "src/components/AuthorCard.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/components/AuthorCard.tsx.txt",
+    "sha256": "36dbd9a78d164a77ebe6153926f4a23728873a7cd5c1896e2025894e967f54bd"
+  },
+  {
+    "original": "src/components/Footer.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/components/Footer.tsx.txt",
+    "sha256": "d28d6f6fcd268045b0704722020a451652472dafefa586c075c6a9e3b8c1854f"
+  },
+  {
+    "original": "src/components/Header.tsx",
+    "archive": "quality/archive/pre-scope-repair/src/components/Header.tsx.txt",
+    "sha256": "436633cc229b431f83b75cf4ce137f6d215ef5ace2cdda6795ed9a9b43bc6135"
+  },
+  {
+    "original": "src/data/codes.json",
+    "archive": "quality/archive/pre-scope-repair/src/data/codes.json.txt",
+    "sha256": "c06a7e0e83d73afb62c9ff15a159927b8482b4a5b46a2658123f736ec8ae2518"
+  },
+  {
+    "original": "src/data/game.config.json",
+    "archive": "quality/archive/pre-scope-repair/src/data/game.config.json.txt",
+    "sha256": "0e75582ee03870192c6514d413921e2ed3bf3f7fcf33a52c90d31403d7418d1f"
+  },
+  {
+    "original": "src/data/packs.json",
+    "archive": "quality/archive/pre-scope-repair/src/data/packs.json.txt",
+    "sha256": "c587c16ee3c6b92582d295caa640987fb2e663dbeb9724de2673fb2e70c55796"
+  },
+  {
+    "original": "src/data/player-cards.json",
+    "archive": "quality/archive/pre-scope-repair/src/data/player-cards.json.txt",
+    "sha256": "47df81b6e4989d4dec21266529ce924bc705813ab86c493ec84a7178c7530ea1"
+  },
+  {
+    "original": "src/data/wikiData.ts",
+    "archive": "quality/archive/pre-scope-repair/src/data/wikiData.ts.txt",
+    "sha256": "16c2fa6d6754389e0391f8a704dc384c000975954579adec7a6c95b03fb64b73"
+  },
+  {
+    "original": "src/lib/data.ts",
+    "archive": "quality/archive/pre-scope-repair/src/lib/data.ts.txt",
+    "sha256": "9243da087b941d27d328923010d755dc720715627b675c72f7ff1a4959bd2204"
+  },
+  {
+    "original": "src/lib/date.ts",
+    "archive": "quality/archive/pre-scope-repair/src/lib/date.ts.txt",
+    "sha256": "93c3869792960d413052a34b02cf2a97386207c6c26ea460b4e37480467f9834"
+  },
+  {
+    "original": "src/lib/seo.ts",
+    "archive": "quality/archive/pre-scope-repair/src/lib/seo.ts.txt",
+    "sha256": "33283e8be1623e6db8bd01a410fe783598252cf683ddfa89314a4c3a0551939b"
+  }
+]
